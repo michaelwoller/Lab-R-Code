@@ -1,0 +1,1264 @@
+ID,UserLanguage,Age,Gender,Educ,Educ_Mom,Country,Isolation,COVID_Concerns,Corona_concerns_1,Corona_concerns_2,Corona_concerns_3,Corona_concerns_4,Corona_concerns_5,COVID_Compliance,Compliance_1,Compliance_2,Compliance_3,Compliance_4,Compliance_5,Compliance_6,Compliance_6
+2,UR,20,Male,"College degree, bachelor, master",None,Pakistan,NA,16,1,2,4,4,5,20,6,3,3,2,4,2,2
+4,BG,79,Male,"College degree, bachelor, master",College degree,Bulgaria,1,3,3,NA,NA,NA,NA,21,3,5,5,2,2,4,4
+5,SAR,61,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,17,4,4,3,6,NA,26,6,6,NA,4,5,5,5
+6,IT,68,Male,"College degree, bachelor, master",College degree,Italy,1,25,5,5,5,5,5,24,5,5,5,4,4,1,1
+7,SAR,29,Other/would rather not say,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,0,16,2,2,2,5,5,25,5,5,5,3,5,2,2
+8,SAR,38,Female,Up to 12 years of school,Up to 12 years of school,Argentina,1,18,4,4,3,3,4,25,5,5,5,2,3,5,5
+9,SME,35,Female,"College degree, bachelor, master",College degree,Panama,2,10,2,2,2,2,2,34,6,6,6,6,5,5,5
+11,SAR,42,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,4,20,5,5,5,5,NA,26,5,6,6,1,6,2,2
+12,SAR,31,Female,"College degree, bachelor, master",College degree,Argentina,3,23,3,4,5,6,5,27,5,5,5,3,5,4,4
+13,SME,42,Female,Up to 9 years of school,NA,Panama,NA,17,1,5,5,5,1,30,5,5,5,5,5,5,5
+14,SAR,49,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,2,24,5,5,5,5,4,30,5,6,5,4,5,5,5
+15,SME,25,Female,"College degree, bachelor, master",None,Panama,3,28,5,6,5,6,6,29,5,6,6,2,5,5,5
+16,SAR,40,Male,PhD/Doctorate,Some College or equivalent,Argentina,1,28,6,6,6,6,4,33,6,6,6,5,6,4,4
+17,SME,60,Female,PhD/Doctorate,College degree,Mexico,1,5,1,1,1,1,1,20,6,3,3,1,6,1,1
+18,SME,19,Female,Up to 12 years of school,Up to 9 years of school,Panama,4,20,5,2,5,4,4,30,6,6,6,3,3,6,6
+20,SAR,64,Female,Up to 12 years of school,Up to 12 years of school,Argentina,0,23,6,6,1,5,5,33,6,3,6,6,6,6,6
+22,SME,69,Female,PhD/Doctorate,Up to 6 years of school,Mexico,1,23,5,5,5,3,5,30,6,6,5,1,6,6,6
+23,FR,28,Female,PhD/Doctorate,Up to 9 years of school,France,1,22,2,5,3,6,6,23,6,6,5,2,2,2,2
+25,SAR,69,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,1,20,4,4,4,4,4,25,6,5,5,3,4,2,2
+26,SME,63,Female,PhD/Doctorate,None,Mexico,1,11,2,4,4,1,NA,25,6,6,6,5,1,1,1
+27,SAR,49,Female,NA,Up to 9 years of school,Argentina,2,21,2,5,2,6,6,22,6,5,5,2,2,2,2
+28,SME,35,Female,"College degree, bachelor, master",Up to 9 years of school,Panama,1,21,3,4,4,5,5,27,5,6,6,3,5,2,2
+29,SAR,64,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,1,26,5,6,5,5,5,26,6,6,6,2,4,2,2
+31,BG,63,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,0,24,4,5,5,5,5,24,6,5,4,2,2,5,5
+32,SME,44,Male,"College degree, bachelor, master",Up to 12 years of school,Panama,2,25,5,5,5,5,5,24,5,5,5,2,4,3,3
+34,KO,33,Female,"College degree, bachelor, master",College degree,United States,NA,20,4,4,4,3,5,27,5,6,5,4,3,4,4
+35,SME,33,Female,PhD/Doctorate,Up to 6 years of school,Panama,0,22,3,4,6,5,4,25,5,6,4,3,5,2,2
+36,SAR,73,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,1,26,5,5,5,6,5,16,1,6,1,2,1,5,5
+37,BG,41,Female,Up to 12 years of school,Up to 12 years of school,Bulgaria,1,26,6,6,5,5,4,22,4,5,4,4,2,3,3
+38,BG,50,Female,"College degree, bachelor, master",Some College or equivalent,Bulgaria,4,9,3,2,2,1,1,21,5,3,4,4,3,2,2
+40,SME,44,Female,"College degree, bachelor, master",Up to 6 years of school,Mexico,3,23,4,5,5,5,4,23,5,5,4,3,1,5,5
+41,SAR,66,Male,PhD/Doctorate,Up to 12 years of school,Argentina,2,30,6,6,6,6,6,31,6,6,6,4,5,4,4
+43,BG,39,Female,Up to 12 years of school,Up to 9 years of school,Bulgaria,2,19,2,4,4,5,4,24,5,4,3,5,3,4,4
+44,SME,63,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,1,27,5,6,5,6,5,29,6,5,6,5,5,2,2
+45,SAR,60,Female,Up to 9 years of school,None,Argentina,1,22,2,5,5,5,5,24,6,4,5,5,3,1,1
+46,SME,60,Male,PhD/Doctorate,Up to 9 years of school,Mexico,1,30,6,6,6,6,6,31,6,5,5,6,6,3,3
+47,SME,43,Male,PhD/Doctorate,Up to 6 years of school,Panama,3,29,6,6,5,6,6,29,6,6,6,1,4,6,6
+48,SME,55,Male,PhD/Doctorate,Up to 12 years of school,Panama,4,24,5,6,5,4,4,29,4,5,6,4,6,4,4
+49,BG,58,Female,Up to 12 years of school,None,Bulgaria,0,28,5,6,5,6,6,32,6,6,6,6,6,2,2
+50,BG,19,Female,Up to 9 years of school,College degree,Bulgaria,3,26,4,6,4,6,6,25,6,4,5,4,3,3,3
+51,SAR,23,Female,"Some College, short continuing education or equivalent",College degree,Argentina,3,27,5,6,6,5,5,21,5,5,5,2,3,1,1
+52,SME,31,Male,"College degree, bachelor, master",Up to 6 years of school,Panama,1,24,5,6,5,6,2,30,6,6,6,1,6,5,5
+53,DA,39,Female,Up to 12 years of school,Up to 9 years of school,Romania,3,20,4,4,4,4,4,24,5,5,5,4,4,1,1
+54,FI,31,Female,"College degree, bachelor, master",College degree,Finland,NA,21,2,5,2,6,6,27,6,6,5,5,4,1,1
+55,RU,67,Female,"College degree, bachelor, master",College degree,Bulgaria,0,25,5,5,5,5,5,29,6,6,6,3,4,4,4
+56,SAR,57,Female,Up to 12 years of school,None,Argentina,2,26,6,6,5,6,3,25,3,6,6,1,6,3,3
+57,SME,29,Female,PhD/Doctorate,College degree,Panama,NA,12,2,2,2,4,2,8,1,1,1,1,3,1,1
+59,BG,52,Female,Up to 12 years of school,Up to 12 years of school,Bulgaria,0,24,5,5,5,5,4,29,5,6,5,4,4,5,5
+60,SAR,61,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,11,2,2,3,3,1,27,6,6,6,1,6,2,2
+61,SME,39,Female,Up to 12 years of school,None,Mexico,2,28,5,6,6,6,5,22,6,6,6,1,2,1,1
+62,SME,51,Male,PhD/Doctorate,Some College or equivalent,Panama,2,22,5,5,5,4,3,26,5,5,5,3,4,4,4
+63,BG,46,Female,"College degree, bachelor, master",Some College or equivalent,Bulgaria,NA,19,6,5,NA,5,3,22,5,5,5,3,2,2,2
+64,FI,35,Female,"College degree, bachelor, master",Some College or equivalent,Finland,1,22,4,5,5,4,4,27,5,5,5,4,3,5,5
+65,SAR,57,Male,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,1,17,4,4,4,3,2,24,5,6,5,2,2,4,4
+66,FI,35,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Finland,0,19,5,5,3,4,2,19,4,5,4,4,1,1,1
+67,BG,56,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Bulgaria,NA,9,1,2,2,2,2,20,4,4,4,4,3,1,1
+68,RU,44,Female,"College degree, bachelor, master",College degree,Russia,1,24,5,5,5,4,5,23,3,5,6,3,2,4,4
+70,BG,18,Female,Up to 12 years of school,College degree,Bulgaria,2,23,2,6,4,6,5,23,6,3,3,6,4,1,1
+71,SME,42,Female,"College degree, bachelor, master",College degree,Mexico,5,28,6,6,6,5,5,25,5,6,5,4,3,2,2
+72,SAR,67,Female,Up to 12 years of school,Up to 6 years of school,Argentina,1,16,4,4,4,2,2,15,6,NA,5,NA,4,NA,NA
+74,SME,27,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,3,19,2,5,3,6,3,21,6,5,3,1,4,2,2
+76,BG,66,Female,"College degree, bachelor, master",Some College or equivalent,Bulgaria,NA,5,1,1,1,1,1,23,5,5,5,2,5,1,1
+78,SME,31,Female,"College degree, bachelor, master",College degree,Mexico,1,25,5,6,5,5,4,26,5,6,6,6,1,2,2
+79,BG,54,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Bulgaria,0,30,6,6,6,6,6,30,6,6,6,2,5,5,5
+80,BG,57,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,1,25,5,5,5,5,5,21,6,6,6,1,1,1,1
+81,BG,58,Female,"College degree, bachelor, master",College degree,NA,0,30,6,6,6,6,6,28,6,6,6,2,6,2,2
+82,BG,67,Female,PhD/Doctorate,Up to 12 years of school,Bulgaria,3,15,1,1,1,6,6,24,5,6,5,2,5,1,1
+84,BG,65,Female,"College degree, bachelor, master",College degree,Bulgaria,2,6,1,1,1,1,2,19,5,5,5,1,2,1,1
+85,SAR,59,Female,"College degree, bachelor, master",None,Argentina,0,11,1,3,3,2,2,31,6,6,6,3,6,4,4
+86,EN,20,Female,"College degree, bachelor, master",Up to 12 years of school,United Kingdom,2,27,6,5,4,6,6,18,4,3,5,2,1,3,3
+87,SAR,73,Male,"Some College, short continuing education or equivalent",College degree,Argentina,1,27,5,5,5,6,6,27,4,6,6,1,6,4,4
+90,BG,45,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Bulgaria,0,6,6,NA,NA,NA,NA,17,NA,6,6,1,2,2,2
+91,DA,51,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Denmark,NA,24,4,4,4,6,6,30,6,6,5,5,6,2,2
+92,BG,50,Female,"Some College, short continuing education or equivalent",NA,Bulgaria,0,17,4,3,3,3,4,21,5,6,4,2,3,1,1
+93,SAR,18,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,6,27,4,6,6,6,5,23,5,5,5,3,3,2,2
+94,BG,62,Female,"College degree, bachelor, master",College degree,Bulgaria,0,23,5,5,5,5,3,23,4,5,4,2,4,4,4
+95,BG,24,Female,"Some College, short continuing education or equivalent",College degree,Bulgaria,2,25,4,5,5,5,6,24,6,6,5,1,2,4,4
+97,SAR,52,Male,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,0,22,5,5,4,4,4,24,5,6,NA,5,5,3,3
+99,RO,31,Female,"College degree, bachelor, master",Some College or equivalent,Romania,2,27,5,6,5,6,5,28,5,6,6,5,3,3,3
+100,SAR,37,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,0,28,5,6,5,6,6,30,5,6,5,5,5,4,4
+101,BG,26,Female,"College degree, bachelor, master",Some College or equivalent,Bulgaria,0,20,4,5,4,4,3,22,5,6,5,3,1,2,2
+102,EN,39,Male,PhD/Doctorate,Some College or equivalent,France,0,20,3,4,3,5,5,26,5,5,5,2,5,4,4
+103,SAR,42,Female,"College degree, bachelor, master",Up to 6 years of school,Argentina,4,25,1,6,6,6,6,23,6,6,6,1,1,3,3
+105,SME,28,Female,PhD/Doctorate,PhD/Doctorate,United Arab Emirates,1,28,6,6,5,6,5,28,6,6,6,1,3,6,6
+106,HR,32,Female,"College degree, bachelor, master",Some College or equivalent,Bosnia and Herzegovina,NA,15,3,3,3,3,3,32,6,6,6,6,6,2,2
+107,EN,23,Female,"College degree, bachelor, master",Up to 12 years of school,Germany,1,16,1,5,2,4,4,20,6,3,3,3,1,4,4
+108,SV,64,Male,"College degree, bachelor, master",Up to 12 years of school,Sweden,4,17,3,3,3,4,4,21,5,3,3,4,4,2,2
+109,HR,32,Female,"College degree, bachelor, master",Up to 12 years of school,Bosnia and Herzegovina,0,25,4,6,6,5,4,30,6,6,6,2,6,4,4
+110,FI,39,Male,"Some College, short continuing education or equivalent",Up to 9 years of school,Finland,1,20,3,3,4,5,5,18,5,4,4,1,2,2,2
+111,FI,18,Female,Up to 12 years of school,Some College or equivalent,Finland,2,22,2,4,4,6,6,19,5,3,3,4,3,1,1
+112,BG,36,Female,Up to 12 years of school,NA,Bulgaria,3,6,1,NA,NA,5,NA,11,NA,NA,4,2,5,NA,NA
+114,FI,18,Female,Up to 12 years of school,College degree,Finland,3,20,4,5,4,4,3,24,4,4,4,4,4,4,4
+115,FI,18,Female,None,Some College or equivalent,Finland,1,24,5,6,6,4,3,25,5,5,5,5,4,1,1
+116,FI,18,Female,None,College degree,Finland,2,17,4,4,4,3,2,23,6,4,3,4,5,1,1
+117,FI,18,Female,Up to 12 years of school,College degree,Finland,2,23,3,5,5,5,5,21,4,3,5,3,4,2,2
+118,FI,18,Female,None,College degree,Finland,3,22,4,5,3,5,5,22,4,5,3,5,4,1,1
+119,FI,18,Female,Up to 12 years of school,College degree,Finland,3,15,2,2,2,4,5,25,5,5,3,6,5,1,1
+120,FI,18,Female,Up to 12 years of school,Some College or equivalent,Finland,2,26,3,6,6,6,5,20,5,4,4,2,2,3,3
+123,FI,19,Female,Up to 12 years of school,College degree,Finland,2,20,3,4,4,5,4,26,5,5,4,6,4,2,2
+124,FI,18,Female,Up to 12 years of school,College degree,Finland,0,23,3,5,5,5,5,21,5,5,3,3,3,2,2
+125,SAR,38,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,0,27,6,5,5,6,5,30,6,6,6,3,5,4,4
+126,FI,18,Female,NA,NA,Finland,NA,15,2,2,2,4,5,25,6,5,4,3,5,2,2
+127,FI,18,Female,None,College degree,Finland,2,19,2,2,3,6,6,22,5,4,3,4,5,1,1
+128,EN,34,Female,"College degree, bachelor, master",Some College or equivalent,Denmark,4,20,4,4,4,4,4,21,5,4,4,3,4,1,1
+129,BG,47,Female,"College degree, bachelor, master",None,Bulgaria,0,17,4,4,3,4,2,24,5,5,5,2,5,2,2
+130,SAR,38,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,0,21,4,5,4,4,4,28,6,5,6,1,6,4,4
+131,SAR,60,Female,Up to 12 years of school,Up to 12 years of school,Argentina,2,27,5,6,5,6,5,28,6,4,5,4,5,4,4
+132,SAR,48,Female,PhD/Doctorate,Some College or equivalent,Argentina,4,13,3,3,5,1,1,26,6,6,6,5,2,1,1
+133,BG,67,Male,"College degree, bachelor, master",Up to 9 years of school,Bulgaria,1,26,2,6,6,6,6,26,5,5,6,2,4,4,4
+134,SAR,36,Female,Up to 12 years of school,Up to 12 years of school,Argentina,NA,25,5,5,5,5,5,22,4,4,5,3,4,2,2
+136,BG,64,Female,Up to 12 years of school,NA,Bulgaria,1,25,5,5,5,5,5,21,5,5,6,2,1,2,2
+137,SAR,41,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,1,22,4,6,4,4,4,23,4,5,5,2,2,5,5
+138,SAR,45,Female,"College degree, bachelor, master",College degree,Argentina,4,27,4,6,5,6,6,25,6,6,6,1,4,2,2
+139,BG,59,Female,NA,NA,Bulgaria,NA,4,1,1,1,1,NA,13,4,3,1,3,1,1,1
+140,RO,42,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Romania,1,20,4,4,4,4,4,22,5,4,5,4,2,2,2
+141,SAR,33,Female,"College degree, bachelor, master",None,Argentina,4,27,3,6,6,6,6,26,6,6,6,1,3,4,4
+142,SAR,48,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,6,6,NA,NA,NA,NA,30,4,6,5,5,5,5,5
+143,SAR,21,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,0,28,6,6,6,5,5,29,6,6,6,NA,6,5,5
+144,SAR,50,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,2,29,6,6,6,6,5,30,6,6,6,2,6,4,4
+145,SME,33,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,3,30,6,6,6,6,6,21,6,6,6,1,1,1,1
+146,SME,43,Female,Up to 12 years of school,Up to 6 years of school,Mexico,1,28,4,6,6,6,6,25,6,6,6,4,1,2,2
+147,SME,28,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,3,20,4,4,3,5,4,24,6,6,5,1,5,1,1
+148,EN,41,Female,"College degree, bachelor, master",College degree,Philippines,0,30,6,6,6,6,6,27,5,5,5,5,4,3,3
+149,SAR,71,Female,PhD/Doctorate,Up to 9 years of school,Argentina,1,18,1,5,1,5,6,30,6,6,6,1,6,5,5
+150,BG,65,Female,NA,NA,Bulgaria,1,28,4,6,6,6,6,20,3,3,3,4,4,3,3
+151,SAR,46,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,1,26,5,6,5,5,5,24,2,5,5,4,5,3,3
+152,SAR,37,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,1,10,2,2,3,1,2,28,6,5,2,6,4,5,5
+153,SME,26,Female,"College degree, bachelor, master",PhD/Doctorate,Mexico,1,27,5,6,6,5,5,21,6,6,5,1,2,1,1
+154,SAR,55,Female,Up to 12 years of school,Up to 6 years of school,Argentina,2,23,5,5,5,4,4,24,5,6,5,2,4,2,2
+155,EN,60,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Australia,1,14,2,3,2,1,6,27,6,6,6,6,2,1,1
+157,BG,50,Female,"College degree, bachelor, master",College degree,Bulgaria,110,16,3,3,3,3,4,24,4,4,4,4,4,4,4
+160,SAR,43,Male,Up to 12 years of school,Up to 9 years of school,Argentina,2,21,4,5,5,4,3,24,5,5,4,3,4,3,3
+161,SME,41,Female,PhD/Doctorate,College degree,Mexico,0,28,6,6,5,6,5,28,6,6,6,3,5,2,2
+162,SAR,61,Male,Up to 6 years of school,Up to 6 years of school,Argentina,1,27,6,6,5,5,5,36,6,6,6,6,6,6,6
+163,SAR,56,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,2,28,6,6,6,6,4,22,5,6,3,2,5,1,1
+166,SAR,56,Male,PhD/Doctorate,Some College or equivalent,Argentina,1,27,6,6,5,5,5,25,6,6,6,1,5,1,1
+167,SAR,60,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,20,5,5,5,5,NA,22,NA,5,5,3,4,5,5
+168,SAR,39,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,0,24,4,5,5,5,5,25,5,6,6,1,5,2,2
+169,SAR,42,Male,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,0,20,4,4,4,4,4,27,5,6,5,3,5,3,3
+170,SAR,56,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,11,2,2,3,2,2,25,5,5,5,5,3,2,2
+171,FI,34,Female,"College degree, bachelor, master",Up to 6 years of school,Finland,NA,18,1,5,4,4,4,20,5,5,4,2,3,1,1
+172,SAR,59,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,0,30,6,6,6,6,6,25,6,6,6,1,4,2,2
+173,SME,49,Female,"College degree, bachelor, master",College degree,Mexico,0,29,6,6,5,6,6,31,6,6,6,6,1,6,6
+174,SAR,33,Male,"College degree, bachelor, master",College degree,Argentina,1,10,2,2,2,2,2,20,4,2,1,6,1,6,6
+175,SAR,65,Male,None,Up to 6 years of school,Argentina,1,25,5,5,5,5,5,20,4,2,5,2,5,2,2
+177,SAR,18,Female,Up to 12 years of school,Up to 6 years of school,Argentina,2,25,5,5,5,5,5,26,5,5,5,2,4,5,5
+179,BG,59,Female,Up to 12 years of school,Up to 12 years of school,Bulgaria,0,30,6,6,6,6,6,28,6,6,6,1,3,6,6
+180,BG,61,Female,"College degree, bachelor, master",Up to 9 years of school,Bulgaria,1,14,2,2,3,3,4,22,5,5,4,3,4,1,1
+181,IT,53,Male,"College degree, bachelor, master",Up to 12 years of school,Italy,NA,22,4,4,4,5,5,23,5,6,5,3,2,2,2
+182,TR,30,Female,PhD/Doctorate,College degree,Turkey,3,17,3,5,2,5,2,23,5,4,4,2,3,5,5
+183,BG,56,Female,"College degree, bachelor, master",College degree,Bulgaria,1,7,1,1,1,3,1,25,6,6,6,1,4,2,2
+184,SAR,44,Male,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,0,23,4,5,4,5,5,30,4,6,6,2,6,6,6
+185,EN,40,Female,PhD/Doctorate,PhD/Doctorate,Sweden,1,27,5,5,5,6,6,20,6,3,5,2,1,3,3
+186,BG,59,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Bulgaria,0,9,1,3,2,1,2,19,2,5,4,4,2,2,2
+187,RO,24,Female,"College degree, bachelor, master",Up to 12 years of school,Romania,1,30,6,6,6,6,6,25,6,6,6,1,4,2,2
+188,SME,41,Female,PhD/Doctorate,None,Mexico,3,26,5,6,5,5,5,24,6,6,5,2,3,2,2
+189,SAR,43,Female,NA,NA,Argentina,3,19,4,3,3,4,5,26,5,5,5,5,4,2,2
+190,BG,62,Female,"College degree, bachelor, master",Some College or equivalent,Bulgaria,1,15,4,4,3,NA,4,27,5,5,5,5,3,4,4
+191,SV,33,Male,"College degree, bachelor, master",College degree,Sweden,0,19,5,4,4,2,4,21,5,4,3,4,3,2,2
+192,SAR,25,Female,Up to 12 years of school,Up to 9 years of school,Argentina,2,24,2,6,6,5,5,16,NA,5,6,2,1,2,2
+193,BG,70,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Bulgaria,1,24,4,6,5,5,4,23,5,5,5,2,4,2,2
+194,BG,46,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,NA,9,1,2,2,2,2,26,5,5,5,5,5,1,1
+195,BG,57,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Bulgaria,0,21,5,5,5,3,3,29,5,6,6,5,6,1,1
+196,SAR,65,Male,"College degree, bachelor, master",Up to 6 years of school,Argentina,2,24,6,6,6,NA,6,33,6,6,6,3,6,6,6
+197,BG,27,Female,Up to 12 years of school,Up to 12 years of school,Bulgaria,4,17,1,4,4,4,4,21,5,4,2,4,5,1,1
+198,BG,22,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Bulgaria,NA,12,1,3,2,3,3,19,5,4,3,4,1,2,2
+199,EN,37,Female,PhD/Doctorate,Up to 6 years of school,United Kingdom,NA,28,6,6,6,5,5,26,4,5,6,3,4,4,4
+200,SAR,35,Male,PhD/Doctorate,Up to 12 years of school,Argentina,0,22,2,5,5,5,5,23,5,1,6,6,4,1,1
+201,SME,32,Male,"College degree, bachelor, master",Up to 6 years of school,Mexico,5,25,5,5,5,5,5,21,5,5,5,2,2,2,2
+202,BG,42,Female,"College degree, bachelor, master",College degree,Bulgaria,0,22,4,5,5,4,4,20,4,5,6,2,2,1,1
+204,SME,25,Female,"College degree, bachelor, master",Some College or equivalent,Mexico,2,30,6,6,6,6,6,26,6,6,5,3,4,2,2
+205,BG,57,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Bulgaria,2,24,4,5,5,5,5,21,5,6,6,1,3,NA,NA
+206,BG,44,Female,"College degree, bachelor, master",College degree,Bulgaria,0,24,5,5,5,5,4,26,5,5,4,3,4,5,5
+208,BG,48,Female,"College degree, bachelor, master",College degree,Bulgaria,NA,27,4,6,6,6,5,23,6,5,5,2,2,3,3
+209,SME,52,Female,"College degree, bachelor, master",College degree,Mexico,4,30,6,6,6,6,6,29,6,6,6,5,3,3,3
+210,SME,18,Female,Up to 12 years of school,Up to 12 years of school,Mexico,5,25,5,5,5,5,5,23,5,6,6,NA,4,2,2
+211,EN,40,Female,"Some College, short continuing education or equivalent",College degree,Estonia,1,23,4,6,4,4,5,23,5,5,5,1,3,4,4
+212,SME,26,Female,PhD/Doctorate,College degree,Mexico,2,29,5,6,6,6,6,25,5,6,5,1,5,3,3
+213,SAR,68,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,7,3,1,1,NA,2,18,2,5,5,3,1,2,2
+214,BG,41,Male,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,7,20,3,4,3,5,5,24,5,5,5,4,3,2,2
+215,IT,45,Male,"College degree, bachelor, master",Some College or equivalent,Italy,NA,15,2,4,3,3,3,20,5,3,4,2,3,3,3
+216,BG,60,Male,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,0,26,6,6,6,4,4,36,6,6,6,6,6,6,6
+217,SME,52,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,4,16,3,5,3,2,3,28,5,6,6,6,1,4,4
+218,SME,19,Male,"College degree, bachelor, master",PhD/Doctorate,Panama,6,19,4,5,4,2,4,27,4,6,5,2,5,5,5
+219,BG,67,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,1,8,NA,3,NA,NA,5,23,4,4,4,4,3,4,4
+220,SV,23,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Sweden,NA,27,5,5,5,6,6,22,4,5,5,2,5,1,1
+221,SME,21,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Mexico,2,27,5,6,5,6,5,23,5,6,6,1,1,4,4
+222,RO,29,Female,"College degree, bachelor, master",College degree,Denmark,NA,25,5,5,5,5,5,26,6,6,6,3,4,1,1
+223,SME,31,Male,"College degree, bachelor, master",PhD/Doctorate,Mexico,1,26,6,6,5,5,4,23,5,6,4,2,3,3,3
+224,SME,30,Female,"College degree, bachelor, master",Up to 6 years of school,Mexico,2,27,5,6,5,6,5,26,5,6,6,5,1,3,3
+225,SAR,32,Male,"College degree, bachelor, master",Some College or equivalent,Argentina,1,18,2,4,4,4,4,20,4,4,4,2,4,2,2
+226,SME,50,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,1,30,6,6,6,6,6,27,6,6,6,1,2,6,6
+227,SAR,32,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,5,30,6,6,6,6,6,28,6,6,6,4,2,4,4
+228,SME,54,Male,"College degree, bachelor, master",Up to 9 years of school,Mexico,4,30,6,6,6,6,6,23,5,6,6,1,4,1,1
+229,BG,67,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,1,13,2,2,3,2,4,28,5,5,5,5,4,4,4
+230,SAR,28,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,3,22,4,6,4,6,2,27,5,6,5,1,4,6,6
+231,IT,28,Female,Up to 12 years of school,Up to 9 years of school,Italy,1,25,5,5,4,6,5,23,3,6,6,2,2,4,4
+232,FI,50,Female,"College degree, bachelor, master",Up to 12 years of school,Finland,2,23,5,5,5,4,4,28,4,5,5,6,3,5,5
+233,SAR,39,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,23,4,5,4,5,5,23,5,5,5,2,4,2,2
+235,SAR,58,Female,"Some College, short continuing education or equivalent",College degree,Argentina,2,19,2,2,3,6,6,24,6,6,6,2,3,1,1
+236,BG,71,Other/would rather not say,PhD/Doctorate,College degree,Bulgaria,0,21,4,4,4,4,5,23,5,6,5,2,4,1,1
+237,IT,65,Female,Up to 12 years of school,Up to 9 years of school,Italy,2,13,3,3,3,3,1,24,5,6,5,3,2,3,3
+238,BG,40,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,1,22,4,4,4,5,5,26,6,4,4,4,4,4,4
+239,IT,31,Female,"College degree, bachelor, master",College degree,Italy,NA,24,5,4,4,6,5,32,6,6,6,4,5,5,5
+240,BG,66,Female,"College degree, bachelor, master",Some College or equivalent,Bulgaria,1,30,6,6,6,6,6,26,5,5,5,4,2,5,5
+241,SME,52,Female,NA,Some College or equivalent,Mexico,1,9,3,3,1,1,1,16,1,5,5,3,1,1,1
+242,IT,31,Female,"College degree, bachelor, master",Some College or equivalent,Italy,NA,27,4,5,6,6,6,22,4,5,5,2,3,3,3
+243,BG,51,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,0,14,4,5,5,NA,NA,22,5,5,5,2,4,1,1
+244,IT,27,Male,Up to 12 years of school,Up to 12 years of school,Italy,1,25,5,5,5,5,5,27,5,6,5,1,5,5,5
+245,IT,28,Female,"College degree, bachelor, master",Up to 12 years of school,Italy,NA,21,2,4,4,5,6,24,5,5,4,3,3,4,4
+246,IT,65,Female,Up to 9 years of school,Up to 9 years of school,Italy,NA,15,3,3,3,3,3,24,5,5,5,2,4,3,3
+247,BG,66,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,1,21,4,5,4,4,4,25,5,5,4,6,2,3,3
+249,SME,48,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Mexico,4,20,5,5,5,1,4,21,5,5,5,1,5,NA,NA
+250,EN,37,Female,PhD/Doctorate,College degree,Sweden,1,26,6,6,5,5,4,12,1,1,1,1,2,6,6
+251,SME,36,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Mexico,4,5,1,1,1,1,1,26,6,6,5,4,3,2,2
+252,RO,26,Female,"College degree, bachelor, master",Up to 12 years of school,Romania,3,14,1,5,3,3,2,23,5,4,5,3,3,3,3
+253,IT,29,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Italy,2,22,3,5,4,5,5,25,5,5,5,4,3,3,3
+254,RU,21,Female,"College degree, bachelor, master",College degree,Russia,7,17,3,3,3,4,4,24,4,4,4,4,4,4,4
+255,SME,39,Male,"Some College, short continuing education or equivalent",None,Mexico,1,25,5,6,6,5,3,22,3,5,6,4,2,2,2
+256,BG,69,Female,"College degree, bachelor, master",College degree,Bulgaria,0,29,6,6,5,6,6,24,6,6,6,1,4,1,1
+257,SV,28,Female,"College degree, bachelor, master",College degree,Sweden,NA,21,3,4,4,5,5,23,4,4,4,4,3,4,4
+258,FI,47,Female,"College degree, bachelor, master",Up to 12 years of school,Finland,NA,19,2,4,1,6,6,26,6,5,5,3,4,3,3
+259,RO,31,Male,"College degree, bachelor, master",Up to 12 years of school,France,0,28,6,6,6,5,5,29,5,6,6,4,4,4,4
+261,IT,51,Female,"College degree, bachelor, master",Some College or equivalent,Italy,NA,23,2,5,5,6,5,27,5,6,6,4,3,3,3
+262,BG,63,Female,NA,NA,Bulgaria,1,9,2,1,1,1,4,25,5,5,5,4,2,4,4
+263,FI,33,Male,"College degree, bachelor, master",Up to 12 years of school,Finland,0,19,6,5,4,2,2,15,1,5,5,2,1,1,1
+264,SV,39,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Sweden,2,30,6,6,6,6,6,25,5,6,6,2,1,5,5
+265,SME,22,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,3,25,5,5,5,5,5,31,6,6,6,4,4,5,5
+266,RO,39,Female,"College degree, bachelor, master",Up to 12 years of school,Romania,NA,11,2,2,2,2,3,28,6,6,6,2,4,4,4
+267,RO,49,Female,"College degree, bachelor, master",Up to 12 years of school,Romania,NA,24,5,5,5,5,4,26,5,5,5,3,4,4,4
+268,SME,44,Female,"College degree, bachelor, master",None,Mexico,2,30,6,6,6,6,6,25,NA,6,6,1,6,6,6
+269,BG,65,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Bulgaria,0,20,4,4,4,4,4,27,5,5,5,4,4,4,4
+270,LT,22,Male,"Some College, short continuing education or equivalent",College degree,Lithuania,0,15,1,3,2,4,5,21,2,3,3,4,5,4,4
+271,SAR,25,Male,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,1,21,2,6,4,6,3,25,5,5,5,4,4,2,2
+272,BG,58,Female,Up to 12 years of school,NA,Bulgaria,1,9,NA,5,NA,4,NA,23,5,4,5,3,4,2,2
+273,EN,38,Male,"College degree, bachelor, master",Some College or equivalent,Norway,NA,21,2,4,5,6,4,27,5,5,6,1,4,6,6
+274,RO,33,Female,"College degree, bachelor, master",Up to 12 years of school,Romania,NA,20,4,4,4,4,4,26,6,6,5,3,3,3,3
+275,EN,36,Male,PhD/Doctorate,College degree,Sweden,1,26,5,5,5,6,5,25,6,6,6,1,2,4,4
+276,BG,45,Female,"College degree, bachelor, master",College degree,Bulgaria,4,21,3,4,4,5,5,20,5,4,5,2,3,1,1
+277,BG,50,Female,Up to 12 years of school,Up to 12 years of school,Bulgaria,1,13,1,3,3,3,3,22,4,5,5,4,3,1,1
+278,SME,32,Male,"College degree, bachelor, master",Up to 9 years of school,Mexico,2,23,5,5,5,4,4,24,5,5,5,1,4,4,4
+279,LT,43,Male,"College degree, bachelor, master",Up to 12 years of school,Lithuania,NA,25,5,5,5,5,5,27,5,5,5,4,4,4,4
+280,EN,52,Male,"Some College, short continuing education or equivalent",Some College or equivalent,United Kingdom,0,27,6,5,6,5,5,28,4,5,5,4,5,5,5
+281,LT,57,Female,PhD/Doctorate,PhD/Doctorate,Lithuania,1,25,5,5,5,5,5,25,2,5,5,5,3,5,5
+282,SME,28,Female,"College degree, bachelor, master",College degree,Mexico,4,22,5,6,3,5,3,25,4,6,6,3,2,4,4
+283,SME,51,Female,"College degree, bachelor, master",College degree,Mexico,4,21,5,6,5,5,NA,28,6,5,5,3,5,4,4
+284,SME,39,Male,PhD/Doctorate,College degree,Mexico,1,16,3,1,4,5,3,21,5,4,4,3,3,2,2
+285,SME,33,Female,PhD/Doctorate,College degree,Mexico,1,26,5,6,5,5,5,20,NA,6,6,1,3,4,4
+286,SME,21,Female,"Some College, short continuing education or equivalent",None,Mexico,2,30,6,6,6,6,6,27,5,5,5,2,6,4,4
+288,LT,53,Female,PhD/Doctorate,College degree,Lithuania,NA,28,5,6,5,6,6,28,5,5,4,3,5,6,6
+289,SAR,22,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,NA,23,5,5,5,4,4,26,6,6,6,2,5,1,1
+291,RO,31,Female,"College degree, bachelor, master",Some College or equivalent,Romania,1,22,4,6,4,4,4,27,6,6,6,1,4,4,4
+292,BG,60,Female,Up to 12 years of school,Some College or equivalent,Bulgaria,1,5,5,NA,NA,NA,NA,6,NA,NA,NA,NA,NA,6,6
+293,SME,18,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,2,30,6,6,6,6,6,25,4,4,5,6,4,2,2
+295,SV,45,Female,"College degree, bachelor, master",Up to 12 years of school,Sweden,0,28,6,6,5,6,5,29,6,6,6,4,3,4,4
+296,SAR,59,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,0,28,6,6,6,5,5,30,6,6,5,5,5,3,3
+297,SAR,31,Female,"Some College, short continuing education or equivalent",College degree,Argentina,1,30,6,6,6,6,6,22,6,6,6,1,1,2,2
+299,SME,32,Female,"College degree, bachelor, master",Up to 12 years of school,Brazil,1,23,5,6,4,4,4,27,6,6,6,3,2,4,4
+301,SAR,19,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,4,29,5,6,6,6,6,21,6,4,2,2,2,5,5
+302,BG,37,Female,"College degree, bachelor, master",College degree,Bulgaria,0,21,2,4,5,5,5,22,6,5,5,2,3,1,1
+303,RO,66,Female,"College degree, bachelor, master",Up to 6 years of school,Romania,0,5,1,1,1,1,1,29,6,6,6,6,4,1,1
+304,SME,62,Female,"College degree, bachelor, master",None,Mexico,3,21,5,5,4,4,3,25,6,5,5,5,2,2,2
+305,SAR,28,Female,"Some College, short continuing education or equivalent",College degree,Argentina,1,12,2,2,2,3,3,30,5,6,6,4,5,4,4
+306,SME,58,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,2,27,6,6,5,6,4,28,5,5,6,5,5,2,2
+307,SV,50,Female,PhD/Doctorate,College degree,Sweden,0,20,2,4,4,5,5,24,6,6,5,2,3,2,2
+308,SAR,54,Female,NA,NA,Argentina,2,9,NA,NA,5,1,3,31,6,6,6,2,6,5,5
+309,SME,49,Female,PhD/Doctorate,College degree,Mexico,0,24,4,5,5,5,5,27,4,6,6,4,4,3,3
+311,SME,46,Female,Up to 9 years of school,Up to 6 years of school,Mexico,4,30,6,6,6,6,6,27,6,6,6,1,5,3,3
+312,SME,52,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,NA,25,5,5,5,5,5,26,5,5,5,4,5,2,2
+313,SME,19,Male,"Some College, short continuing education or equivalent",College degree,Mexico,4,23,4,6,4,4,5,24,5,5,5,3,4,2,2
+316,SAR,56,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,2,26,6,6,4,5,5,23,6,6,6,1,2,2,2
+317,SAR,43,Female,Up to 12 years of school,Up to 12 years of school,Argentina,2,28,5,6,6,6,5,25,5,5,5,2,5,3,3
+318,SME,60,Male,"Some College, short continuing education or equivalent",NA,Mexico,1,25,5,5,5,5,5,24,5,6,6,1,5,1,1
+319,SAR,26,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,3,28,6,6,6,5,5,26,4,6,6,5,1,4,4
+321,SAR,68,Female,NA,Some College or equivalent,Argentina,1,23,3,5,5,5,5,25,5,5,5,2,3,5,5
+322,SAR,18,Female,"Some College, short continuing education or equivalent",PhD/Doctorate,Argentina,NA,19,3,3,3,5,5,16,2,2,3,4,3,2,2
+323,SAR,32,Female,Up to 12 years of school,Up to 12 years of school,Argentina,1,27,6,6,6,6,3,31,6,6,6,1,6,6,6
+324,SAR,47,Male,"College degree, bachelor, master",Some College or equivalent,Argentina,3,5,1,1,1,1,1,21,4,4,1,6,4,2,2
+325,SME,47,Female,PhD/Doctorate,Up to 6 years of school,Mexico,1,9,5,1,1,1,1,26,6,6,5,2,5,2,2
+326,SME,20,Female,"College degree, bachelor, master",Up to 12 years of school,Panama,3,30,6,6,6,6,6,34,6,6,6,5,6,5,5
+327,SAR,53,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,0,23,6,NA,6,6,5,25,5,6,6,6,1,1,1
+328,SME,64,Female,PhD/Doctorate,Up to 9 years of school,Mexico,2,29,6,6,6,6,5,30,6,6,6,5,5,2,2
+329,SME,54,Male,"College degree, bachelor, master",Up to 9 years of school,Mexico,0,9,1,2,2,2,2,26,6,6,6,2,4,2,2
+330,SME,54,Female,PhD/Doctorate,College degree,Mexico,0,19,5,4,4,3,3,25,6,5,5,2,3,4,4
+331,SME,28,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,2,30,6,6,6,6,6,22,6,NA,6,4,4,2,2
+332,SME,63,Female,None,None,Mexico,0,25,5,5,5,5,5,26,5,5,5,1,5,5,5
+333,SAR,50,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,2,17,3,3,4,4,3,25,4,5,5,3,4,4,4
+334,SME,66,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,0,23,5,5,4,5,4,25,5,5,5,2,5,3,3
+335,SME,25,Male,"College degree, bachelor, master",PhD/Doctorate,Panama,3,25,5,6,5,5,4,26,5,6,5,2,4,4,4
+336,SAR,55,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,4,15,4,4,3,4,NA,26,5,6,6,1,5,3,3
+337,SAR,45,Other/would rather not say,"College degree, bachelor, master",College degree,Argentina,1,18,4,4,4,4,2,21,1,5,5,5,4,1,1
+338,SME,21,Female,"College degree, bachelor, master",Up to 12 years of school,Panama,6,28,6,6,6,5,5,25,5,6,5,2,5,2,2
+339,SAR,35,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,7,24,2,6,4,6,6,28,5,6,5,5,5,2,2
+340,SME,60,Male,"College degree, bachelor, master",Up to 6 years of school,Mexico,0,23,4,5,4,5,5,22,5,4,5,4,3,1,1
+341,SAR,73,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,2,25,5,5,5,5,5,24,5,4,6,2,5,2,2
+342,SME,24,Male,"Some College, short continuing education or equivalent",College degree,Mexico,1,24,5,5,5,5,4,22,5,5,5,3,2,2,2
+343,SME,47,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,2,23,4,6,4,5,4,28,6,5,4,5,2,6,6
+344,SME,31,Male,"College degree, bachelor, master",College degree,Mexico,0,25,5,6,5,5,4,25,5,6,6,1,5,2,2
+345,SAR,71,Male,Up to 12 years of school,Up to 6 years of school,Argentina,0,30,6,6,6,6,6,31,6,6,6,1,6,6,6
+346,SME,39,Female,PhD/Doctorate,College degree,Mexico,1,30,6,6,6,6,6,30,6,6,6,5,6,1,1
+347,SME,25,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,2,30,6,6,6,6,6,21,6,6,6,1,1,1,1
+348,EN,19,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,United Kingdom,3,22,4,4,4,5,5,27,6,5,5,5,3,3,3
+349,SAR,31,Male,"College degree, bachelor, master",Some College or equivalent,Argentina,1,9,1,2,2,2,2,27,5,4,4,6,5,3,3
+350,SME,31,Male,"Some College, short continuing education or equivalent",Up to 6 years of school,Mexico,4,26,5,6,5,5,5,27,4,5,5,4,5,4,4
+351,SAR,50,Male,PhD/Doctorate,College degree,Argentina,1,24,4,6,5,5,4,27,5,5,5,5,5,2,2
+352,SME,67,Female,PhD/Doctorate,Up to 12 years of school,Mexico,1,30,6,6,6,6,6,17,5,5,4,1,1,1,1
+354,SME,24,Female,"College degree, bachelor, master",College degree,Panama,3,15,3,3,3,3,3,18,3,3,3,3,3,3,3
+355,EN,35,Female,PhD/Doctorate,College degree,Australia,1,18,4,4,4,3,3,23,4,5,6,1,3,4,4
+356,SME,23,Male,"Some College, short continuing education or equivalent",PhD/Doctorate,Mexico,3,20,5,NA,5,5,5,22,5,5,4,1,3,4,4
+357,SAR,55,Female,Up to 12 years of school,Up to 6 years of school,Argentina,1,15,1,5,5,2,2,19,5,1,5,2,5,1,1
+358,SME,51,Female,Up to 12 years of school,Up to 12 years of school,Mexico,3,23,5,5,4,5,4,20,5,5,1,3,4,2,2
+359,EN,48,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,United Kingdom,2,23,6,6,5,6,NA,28,5,6,6,1,6,4,4
+360,SME,43,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,1,25,5,5,5,5,5,24,5,5,5,2,5,2,2
+361,EN,24,Other/would rather not say,"College degree, bachelor, master",College degree,Sweden,NA,20,2,5,3,5,5,18,4,2,2,4,4,2,2
+362,SV,40,Female,"College degree, bachelor, master",Some College or equivalent,Sweden,1,25,4,5,4,6,6,27,6,5,5,4,1,6,6
+363,SAR,28,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,0,19,2,5,5,4,3,26,5,5,5,5,4,2,2
+364,SAR,76,Male,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,0,23,2,6,5,5,5,24,5,6,5,2,3,3,3
+366,FR,52,Female,Up to 12 years of school,Up to 12 years of school,France,3,30,6,6,6,6,6,27,5,6,6,2,4,4,4
+367,SV,43,Male,"College degree, bachelor, master",College degree,Sweden,2,21,5,5,5,3,3,23,2,6,6,5,2,2,2
+368,SME,44,Male,PhD/Doctorate,College degree,Mexico,NA,21,5,6,NA,5,5,25,5,5,5,5,3,2,2
+369,SME,48,Male,"College degree, bachelor, master",Up to 9 years of school,Mexico,1,30,6,6,6,6,6,27,6,5,5,3,3,5,5
+370,RO,31,Female,"College degree, bachelor, master",Up to 12 years of school,Romania,5,28,5,6,6,6,5,20,3,4,4,3,3,3,3
+371,SME,19,Female,"College degree, bachelor, master",Up to 6 years of school,Panama,3,23,5,6,4,4,4,29,6,5,4,6,3,5,5
+373,SME,29,Male,"Some College, short continuing education or equivalent",PhD/Doctorate,Panama,4,30,6,6,6,6,6,23,5,6,4,2,5,1,1
+375,BG,53,Female,"College degree, bachelor, master",College degree,Bulgaria,0,20,4,3,4,5,4,13,3,1,1,6,1,1,1
+376,BG,60,Female,Up to 12 years of school,Up to 12 years of school,Bulgaria,NA,18,2,4,4,4,4,22,6,4,5,1,4,2,2
+377,RO,27,Female,"College degree, bachelor, master",Some College or equivalent,Romania,NA,11,1,1,1,4,4,25,6,6,6,1,2,4,4
+378,SAR,21,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,NA,27,5,5,5,6,6,31,6,6,6,3,6,4,4
+379,SAR,35,Female,Up to 12 years of school,None,Argentina,1,15,5,3,4,NA,3,28,5,6,6,4,4,3,3
+381,SME,20,Male,"College degree, bachelor, master",PhD/Doctorate,Panama,0,8,1,1,1,1,4,11,1,1,1,3,3,2,2
+382,BG,50,Female,Up to 12 years of school,PhD/Doctorate,Bulgaria,1,28,6,6,6,5,5,26,5,5,6,4,3,3,3
+384,IT,57,Female,"College degree, bachelor, master",Up to 9 years of school,Italy,NA,24,4,5,5,5,5,24,5,5,4,4,4,2,2
+386,SV,35,Female,"College degree, bachelor, master",Some College or equivalent,Sweden,0,30,6,6,6,6,6,26,6,6,6,5,1,2,2
+387,BG,62,Female,"College degree, bachelor, master",None,Bulgaria,1,22,4,5,4,4,5,28,6,6,6,2,4,4,4
+388,SME,19,Female,"College degree, bachelor, master",College degree,Panama,2,28,4,6,6,6,6,26,5,6,6,4,2,3,3
+389,EN,21,Female,"College degree, bachelor, master",Some College or equivalent,United Kingdom,3,26,5,5,5,6,5,22,4,5,5,2,5,1,1
+390,IT,33,Female,None,Up to 12 years of school,Italy,NA,18,2,4,4,4,4,23,4,5,5,2,4,3,3
+391,BG,58,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Bulgaria,0,25,5,5,5,5,5,13,6,2,2,2,NA,1,1
+392,BG,64,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Bulgaria,0,11,1,2,2,1,5,20,6,5,NA,4,5,NA,NA
+393,RO,27,Female,"College degree, bachelor, master",Up to 12 years of school,Romania,1,24,5,5,4,5,5,25,6,6,6,2,3,2,2
+395,SME,42,Female,"College degree, bachelor, master",Up to 6 years of school,Panama,2,26,5,5,5,6,5,30,6,6,6,5,5,2,2
+397,SME,52,Other/would rather not say,"College degree, bachelor, master",Some College or equivalent,Mexico,NA,25,1,6,6,6,6,26,4,6,6,6,2,2,2
+398,EN,47,Female,"College degree, bachelor, master",Some College or equivalent,United Kingdom,0,26,5,6,5,5,5,25,5,6,6,2,4,2,2
+400,FR,19,Female,"Some College, short continuing education or equivalent",College degree,France,2,20,4,4,4,4,4,21,5,6,5,1,3,1,1
+401,EN,31,Male,"College degree, bachelor, master",College degree,Sweden,3,27,6,6,4,5,6,26,6,5,6,3,3,3,3
+402,BG,40,Male,"College degree, bachelor, master",Some College or equivalent,Bulgaria,4,29,5,6,6,6,6,19,4,5,5,1,2,2,2
+403,BG,61,Female,Up to 12 years of school,College degree,Bulgaria,0,19,3,4,4,4,4,26,5,5,6,2,5,3,3
+404,BG,60,Female,NA,NA,NA,2,4,4,NA,NA,NA,NA,5,NA,NA,5,NA,NA,NA,NA
+405,SV,54,Female,"Some College, short continuing education or equivalent",College degree,Sweden,1,28,6,6,6,6,4,26,6,6,4,3,2,5,5
+406,SV,26,Female,"Some College, short continuing education or equivalent",College degree,Sweden,1,24,4,5,4,5,6,23,6,4,5,1,3,4,4
+407,IT,34,Female,PhD/Doctorate,College degree,Sweden,NA,30,6,6,6,6,6,21,5,3,5,1,1,6,6
+408,SV,18,Male,"Some College, short continuing education or equivalent",College degree,Sweden,2,18,2,5,2,5,4,21,6,5,4,2,3,1,1
+409,BG,70,Female,"College degree, bachelor, master",College degree,Bulgaria,1,19,4,4,4,3,4,22,4,4,5,2,4,3,3
+410,SME,51,Female,"College degree, bachelor, master",None,Mexico,4,21,5,5,5,6,NA,23,5,6,5,2,3,2,2
+411,SAR,64,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,0,25,5,5,5,5,5,27,5,5,5,4,5,3,3
+412,BG,67,Male,Up to 12 years of school,Up to 9 years of school,Bulgaria,0,22,4,4,4,5,5,29,6,6,5,6,5,1,1
+413,SME,38,Female,PhD/Doctorate,PhD/Doctorate,Mexico,1,28,6,6,6,5,5,30,5,5,5,6,4,5,5
+414,RO,27,Female,"College degree, bachelor, master",College degree,Romania,1,22,4,5,4,5,4,23,5,6,5,2,2,3,3
+415,SME,30,Male,"Some College, short continuing education or equivalent",Some College or equivalent,Mexico,2,25,5,5,5,5,5,23,6,5,5,3,3,1,1
+416,SV,18,Female,Up to 12 years of school,College degree,Sweden,NA,23,4,4,5,5,5,16,4,2,2,5,2,1,1
+417,SV,32,Female,"College degree, bachelor, master",Up to 6 years of school,Sweden,NA,26,4,5,5,6,6,18,4,1,3,4,2,4,4
+418,SME,31,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Panama,2,19,5,5,5,2,2,20,5,5,2,2,2,4,4
+419,SME,18,Other/would rather not say,Up to 12 years of school,Up to 12 years of school,Mexico,2,25,4,6,5,5,5,25,5,5,6,2,5,2,2
+421,SV,46,Male,"College degree, bachelor, master",Up to 12 years of school,Sweden,1,21,2,4,5,6,4,25,6,6,5,1,4,3,3
+422,SME,36,Female,"College degree, bachelor, master",Up to 6 years of school,Panama,0,27,5,5,5,6,6,25,5,6,6,4,2,2,2
+423,SME,34,Male,Up to 12 years of school,Up to 12 years of school,Mexico,2,24,6,6,4,4,4,20,5,6,6,1,1,1,1
+424,SME,51,Female,"College degree, bachelor, master",Up to 6 years of school,Mexico,1,25,5,5,5,5,5,30,5,6,6,5,4,4,4
+425,SV,53,Male,"College degree, bachelor, master",College degree,Hungary,1,25,6,5,4,4,6,28,6,6,6,1,3,6,6
+426,SME,43,Male,"College degree, bachelor, master",College degree,Mexico,1,28,6,6,6,5,5,28,3,6,6,4,5,4,4
+428,SAR,59,Female,Up to 12 years of school,None,Argentina,NA,14,3,3,3,2,3,28,2,6,5,6,6,3,3
+429,SV,45,Female,"College degree, bachelor, master",Up to 12 years of school,Sweden,0,28,6,6,6,5,5,25,6,6,6,2,3,2,2
+430,SME,51,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,4,30,6,6,6,6,6,21,5,5,5,2,2,2,2
+431,BG,70,Female,"College degree, bachelor, master",College degree,Bulgaria,1,24,4,5,5,5,5,25,5,5,4,3,4,4,4
+432,SME,21,Female,None,Up to 6 years of school,Panama,5,24,5,5,5,5,4,23,5,4,5,2,2,5,5
+433,BG,47,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Bulgaria,0,16,4,4,4,NA,4,23,5,5,5,2,4,2,2
+434,SME,51,Female,PhD/Doctorate,College degree,Panama,1,27,5,6,6,5,5,34,6,6,6,6,4,6,6
+435,SME,56,Male,PhD/Doctorate,Up to 9 years of school,Panama,NA,22,5,5,5,5,2,18,5,1,1,5,5,1,1
+436,SME,19,Female,"College degree, bachelor, master",College degree,Panama,2,30,6,6,6,6,6,29,6,6,6,1,4,6,6
+437,SME,23,Female,"College degree, bachelor, master",Up to 6 years of school,Panama,1,23,2,6,5,5,5,25,5,6,5,2,3,4,4
+438,EN,50,Female,"College degree, bachelor, master",Some College or equivalent,United Kingdom,1,6,1,2,1,NA,2,26,6,4,4,6,5,1,1
+440,EN,51,Male,"College degree, bachelor, master",Up to 9 years of school,Norway,2,25,5,5,5,5,5,21,6,5,5,1,3,1,1
+441,SME,32,Female,Up to 9 years of school,Up to 9 years of school,Mexico,4,24,5,6,5,4,4,26,6,5,5,1,4,5,5
+442,RO,27,Female,"College degree, bachelor, master",Up to 12 years of school,Romania,0,15,2,5,2,3,3,22,6,6,5,2,2,1,1
+443,SME,26,Male,Up to 9 years of school,Up to 6 years of school,Panama,0,22,4,4,5,4,5,23,5,5,5,1,5,2,2
+444,SME,57,Female,"College degree, bachelor, master",Some College or equivalent,Mexico,1,25,5,5,5,5,5,36,6,6,6,6,6,6,6
+445,SAR,58,Male,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,4,19,2,5,5,3,4,30,5,6,5,5,5,4,4
+446,SME,20,Female,Up to 12 years of school,None,Panama,3,25,5,5,5,5,5,30,5,5,4,6,4,6,6
+447,SME,19,Female,"College degree, bachelor, master",College degree,Panama,5,24,5,5,4,5,5,23,2,6,5,4,3,3,3
+448,SME,19,Female,"College degree, bachelor, master",College degree,Panama,2,27,6,6,5,5,5,29,6,5,5,4,4,5,5
+449,SME,21,Female,"College degree, bachelor, master",PhD/Doctorate,Panama,2,29,6,6,6,6,5,34,5,6,6,6,5,6,6
+450,SME,19,Female,Up to 12 years of school,College degree,Panama,2,27,5,6,6,5,5,24,5,6,6,2,3,2,2
+451,SME,20,Female,"College degree, bachelor, master",College degree,Panama,3,23,6,NA,6,6,5,29,5,6,5,2,5,6,6
+452,SME,41,Female,"College degree, bachelor, master",College degree,Panama,1,15,4,3,4,3,1,27,3,5,5,5,4,5,5
+453,SME,51,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Mexico,4,30,6,6,6,6,6,22,5,6,5,2,2,2,2
+454,SME,20,Female,"College degree, bachelor, master",PhD/Doctorate,Panama,1,24,5,6,5,3,5,26,4,6,6,2,4,4,4
+455,SME,23,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,3,19,5,5,3,3,3,18,1,5,6,1,1,4,4
+456,SME,51,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,4,10,2,2,2,2,2,28,6,5,6,2,4,5,5
+458,BG,65,Female,PhD/Doctorate,Some College or equivalent,Bulgaria,NA,24,4,5,5,5,5,29,6,6,6,4,4,3,3
+459,SME,18,Female,Up to 12 years of school,Up to 9 years of school,Mexico,1,30,6,6,6,6,6,26,4,6,6,3,3,4,4
+460,SME,19,Female,"College degree, bachelor, master",None,Panama,NA,27,5,6,4,6,6,28,6,5,5,5,5,2,2
+461,SME,51,Female,PhD/Doctorate,Up to 9 years of school,Mexico,0,30,6,6,6,6,6,25,5,6,6,2,2,4,4
+462,SV,54,Female,"College degree, bachelor, master",PhD/Doctorate,Sweden,NA,27,6,6,5,5,5,29,6,6,6,2,4,5,5
+463,BG,27,Female,"Some College, short continuing education or equivalent",College degree,Bulgaria,1,10,2,2,2,2,2,21,5,4,4,3,3,2,2
+464,SME,52,Female,Up to 12 years of school,Up to 6 years of school,Mexico,1,25,6,1,6,6,6,32,6,6,5,4,6,5,5
+465,SME,30,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,2,30,6,6,6,6,6,27,6,6,5,3,5,2,2
+466,SME,51,Female,PhD/Doctorate,Up to 6 years of school,Mexico,1,30,6,6,6,6,6,21,2,5,6,2,2,4,4
+467,SME,38,Female,"College degree, bachelor, master",College degree,Mexico,0,19,1,4,4,5,5,22,6,5,3,3,4,1,1
+468,EN,38,Female,PhD/Doctorate,College degree,Sweden,1,26,5,6,5,5,5,23,6,5,6,1,3,2,2
+469,SME,19,Male,Up to 9 years of school,College degree,Panama,2,26,5,6,5,5,5,26,5,5,5,4,5,2,2
+470,SME,62,Female,PhD/Doctorate,College degree,Mexico,3,26,6,5,5,5,5,25,6,6,6,2,2,3,3
+471,SV,55,Female,"College degree, bachelor, master",College degree,Sweden,0,30,6,6,6,6,6,24,6,6,6,2,1,3,3
+472,SME,38,Female,"College degree, bachelor, master",College degree,Mexico,3,30,6,6,6,6,6,25,5,5,5,3,3,4,4
+473,SME,29,Male,"College degree, bachelor, master",PhD/Doctorate,Mexico,1,26,5,6,5,6,4,22,6,4,4,2,2,4,4
+474,BG,50,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Bulgaria,NA,12,1,1,1,4,5,12,1,2,2,3,1,3,3
+475,SME,62,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,4,25,5,5,5,5,5,24,5,5,5,3,4,2,2
+476,SME,22,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,3,21,4,5,5,4,3,30,5,5,6,5,4,5,5
+477,SME,25,Male,"College degree, bachelor, master",College degree,Mexico,4,20,4,5,5,2,4,16,3,3,3,2,3,2,2
+478,SME,28,Female,PhD/Doctorate,College degree,Mexico,1,24,4,6,6,5,3,20,5,5,5,3,1,1,1
+479,SME,28,Female,PhD/Doctorate,Up to 12 years of school,Mexico,0,23,5,6,5,5,2,19,6,4,2,2,3,2,2
+482,SME,34,Female,"College degree, bachelor, master",College degree,Mexico,1,30,6,6,6,6,6,26,4,6,6,2,6,2,2
+483,FI,46,Female,"College degree, bachelor, master",Up to 12 years of school,Finland,NA,25,4,5,4,6,6,25,5,5,4,5,5,1,1
+484,SME,51,Female,"College degree, bachelor, master",College degree,Panama,0,29,5,6,6,6,6,24,4,6,6,4,2,2,2
+485,SME,27,Male,"College degree, bachelor, master",College degree,Mexico,3,26,6,6,6,4,4,23,5,5,5,2,2,4,4
+486,SSP,63,Male,"College degree, bachelor, master",Up to 12 years of school,Panama,0,23,2,6,5,5,5,24,6,3,5,1,4,5,5
+487,SME,29,Female,"College degree, bachelor, master",Some College or equivalent,Mexico,1,27,6,6,5,5,5,22,6,6,6,1,2,1,1
+488,SME,40,Male,PhD/Doctorate,Some College or equivalent,Mexico,1,21,4,4,4,5,4,24,5,6,6,2,2,3,3
+490,SME,42,Male,"College degree, bachelor, master",College degree,Mexico,1,21,5,5,4,4,3,23,6,4,3,5,2,3,3
+491,EN,28,Female,"College degree, bachelor, master",College degree,Sweden,0,29,5,6,6,6,6,25,4,5,4,5,2,5,5
+492,SV,68,Female,"College degree, bachelor, master",Up to 6 years of school,Sweden,1,30,6,6,6,6,6,33,6,6,6,6,4,5,5
+493,BG,29,Female,"College degree, bachelor, master",College degree,Bulgaria,2,4,NA,NA,NA,NA,4,19,4,4,4,4,2,1,1
+494,EN,35,Female,"College degree, bachelor, master",Some College or equivalent,Sweden,1,18,1,4,1,6,6,25,6,6,5,2,2,4,4
+495,EN,37,Female,"College degree, bachelor, master",Up to 12 years of school,Sweden,1,28,6,6,6,5,5,25,6,6,6,2,1,4,4
+496,SME,38,Male,Up to 12 years of school,Up to 9 years of school,Mexico,1,28,6,6,5,5,6,26,6,6,5,2,5,2,2
+497,SME,48,Female,Up to 12 years of school,Up to 6 years of school,Mexico,4,25,5,5,5,5,5,24,5,5,5,2,5,2,2
+498,EN,20,Female,"College degree, bachelor, master",Up to 12 years of school,United Kingdom,NA,25,4,5,4,6,6,23,5,6,4,5,2,1,1
+499,SME,47,Female,PhD/Doctorate,Some College or equivalent,Panama,3,21,NA,6,5,5,5,28,4,6,6,4,4,4,4
+500,BG,50,Female,Up to 12 years of school,Up to 12 years of school,Bulgaria,1,9,1,2,2,2,2,19,4,3,4,4,3,1,1
+502,BG,56,Female,"College degree, bachelor, master",College degree,Bulgaria,0,25,5,5,5,5,5,26,5,5,5,5,4,2,2
+505,EN,20,Female,"College degree, bachelor, master",Up to 6 years of school,United Kingdom,3,19,4,4,4,4,3,18,4,4,4,2,2,2,2
+506,EN,21,Female,"College degree, bachelor, master",None,United Kingdom,2,25,5,5,5,5,5,25,5,4,4,4,4,4,4
+507,EN,20,Female,"Some College, short continuing education or equivalent",Some College or equivalent,United Kingdom,2,22,4,5,5,4,4,21,3,5,5,2,3,3,3
+508,EN,21,Female,"Some College, short continuing education or equivalent",Some College or equivalent,United Kingdom,NA,22,2,4,5,5,6,17,4,5,2,4,1,1,1
+509,EN,20,Female,"College degree, bachelor, master",None,United Kingdom,3,25,5,5,5,5,5,26,4,5,5,3,4,5,5
+510,LT,45,Female,"College degree, bachelor, master",Some College or equivalent,Lithuania,NA,24,5,5,5,5,4,24,6,5,5,2,4,2,2
+512,SME,42,Female,"College degree, bachelor, master",None,Mexico,1,24,6,6,1,6,5,21,5,5,5,2,2,2,2
+513,SME,51,Female,PhD/Doctorate,Up to 12 years of school,Mexico,1,24,5,6,4,4,5,26,6,3,3,4,5,5,5
+514,SME,33,Female,"College degree, bachelor, master",Some College or equivalent,Mexico,1,30,6,6,6,6,6,32,5,6,5,6,5,5,5
+515,SME,41,Male,Up to 12 years of school,Some College or equivalent,Ecuador,0,21,4,5,4,4,4,26,5,6,5,2,3,5,5
+517,EN,38,Male,"College degree, bachelor, master",College degree,Morocco,2,30,6,6,6,6,6,23,6,6,5,1,1,4,4
+518,RO,31,Female,"College degree, bachelor, master",College degree,Romania,1,23,4,5,4,5,5,29,5,6,6,4,4,4,4
+519,SAR,62,Female,"College degree, bachelor, master",Up to 9 years of school,Argentina,4,30,6,6,6,6,6,33,6,6,6,6,6,3,3
+520,SME,62,Female,PhD/Doctorate,College degree,Mexico,1,29,5,6,6,6,6,26,5,6,6,4,4,1,1
+521,SME,42,Female,PhD/Doctorate,Some College or equivalent,Mexico,1,25,5,5,5,5,5,25,5,6,6,2,4,2,2
+522,SME,27,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,0,28,6,6,6,5,5,26,5,5,5,3,4,4,4
+524,SME,24,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Mexico,4,30,6,6,6,6,6,25,6,6,5,1,2,5,5
+525,SAR,35,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,1,14,1,4,4,5,NA,21,2,3,4,5,5,2,2
+527,SAR,68,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,0,25,5,5,5,5,5,27,5,5,5,2,5,5,5
+528,SME,41,Female,PhD/Doctorate,Up to 6 years of school,Mexico,2,17,2,4,1,5,5,21,5,5,6,1,2,2,2
+529,BG,55,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Bulgaria,1,13,1,1,1,4,6,26,5,6,4,6,3,2,2
+531,SME,42,Female,None,Up to 12 years of school,Mexico,1,28,6,6,6,5,5,28,5,6,6,1,4,6,6
+533,SAR,64,Female,"Some College, short continuing education or equivalent",None,Argentina,0,17,3,3,3,3,5,31,6,6,6,3,4,6,6
+534,SAR,48,Female,NA,Up to 9 years of school,Argentina,4,25,5,6,5,5,4,26,5,5,5,2,5,4,4
+537,BG,39,Female,"College degree, bachelor, master",College degree,Bulgaria,NA,22,4,5,5,4,4,22,4,4,5,2,3,4,4
+538,BG,41,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Bulgaria,0,29,6,5,6,6,6,30,6,6,6,2,6,4,4
+539,BG,37,Male,"College degree, bachelor, master",College degree,Bulgaria,1,17,3,4,4,4,2,22,5,5,6,2,2,2,2
+540,LT,38,Female,"Some College, short continuing education or equivalent",College degree,Ireland,1,21,3,5,3,5,5,17,6,3,4,1,2,1,1
+541,SAR,34,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,2,22,3,5,5,5,4,27,6,6,6,4,3,2,2
+542,SAR,28,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,0,27,5,6,6,5,5,32,6,5,6,4,6,5,5
+543,BG,33,Female,"Some College, short continuing education or equivalent",College degree,Bulgaria,1,12,1,1,4,3,3,22,5,4,5,2,4,2,2
+544,BG,18,Female,"Some College, short continuing education or equivalent",College degree,Bulgaria,1,21,1,6,4,5,5,23,3,4,4,4,3,5,5
+545,BG,57,Female,Up to 12 years of school,Up to 6 years of school,Bulgaria,1,19,3,5,3,4,4,26,5,5,5,4,3,4,4
+546,EN,30,Male,"College degree, bachelor, master",Up to 12 years of school,Austria,2,30,6,6,6,6,6,27,4,6,6,5,2,4,4
+547,FI,65,Female,"College degree, bachelor, master",None,Finland,1,27,4,6,5,6,6,24,5,6,5,2,5,1,1
+548,BG,62,Female,Up to 12 years of school,Up to 12 years of school,Bahrain,0,21,4,5,4,4,4,17,4,3,4,2,3,1,1
+549,BG,63,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,0,28,6,6,6,5,5,24,5,5,5,2,5,2,2
+550,LT,30,Female,"College degree, bachelor, master",College degree,Lithuania,NA,29,5,6,6,6,6,27,5,6,6,1,3,6,6
+551,BG,77,Male,"College degree, bachelor, master",Some College or equivalent,Bulgaria,1,25,5,5,5,5,5,27,5,5,5,4,3,5,5
+552,SME,34,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,0,20,1,5,4,5,5,26,6,6,6,1,6,1,1
+553,FI,29,Female,"College degree, bachelor, master",Some College or equivalent,Finland,1,26,5,6,5,5,5,25,5,5,5,4,4,2,2
+554,LT,27,Female,"College degree, bachelor, master",College degree,Lithuania,1,14,1,4,3,2,4,21,6,4,3,2,2,4,4
+555,LT,30,Female,PhD/Doctorate,College degree,Lithuania,3,27,6,6,5,5,5,28,4,6,6,4,4,4,4
+556,LT,31,Female,"College degree, bachelor, master",College degree,Lithuania,0,25,4,6,4,6,5,27,6,6,5,2,5,3,3
+558,SAR,22,Female,"Some College, short continuing education or equivalent",College degree,Argentina,0,27,5,6,6,5,5,20,2,5,5,6,1,1,1
+559,SME,40,Male,PhD/Doctorate,PhD/Doctorate,Mexico,1,4,1,1,1,NA,1,19,3,6,1,1,2,6,6
+560,SME,39,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,1,23,5,5,5,5,3,19,4,4,5,2,2,2,2
+562,SME,30,Female,PhD/Doctorate,Up to 9 years of school,Mexico,0,27,6,6,5,5,5,24,5,4,6,2,3,4,4
+563,BG,43,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,1,6,1,1,1,1,2,22,6,4,2,4,5,1,1
+564,SME,62,Female,Up to 12 years of school,Some College or equivalent,Mexico,2,25,5,5,5,5,5,24,5,5,6,2,5,1,1
+565,SAR,34,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,1,18,3,4,2,4,5,25,5,4,6,2,5,3,3
+566,SME,52,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,2,5,1,1,1,1,1,24,1,5,5,6,4,3,3
+567,BG,57,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,0,24,3,6,6,4,5,25,6,6,6,1,5,1,1
+568,BG,58,Female,Up to 12 years of school,Up to 9 years of school,Bulgaria,4,24,4,5,5,5,5,26,6,6,5,3,4,2,2
+569,EN,35,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,United States,0,5,1,1,1,1,1,15,4,5,2,1,1,2,2
+571,SME,34,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Mexico,3,28,6,6,6,5,5,23,6,6,6,1,1,3,3
+572,SME,33,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,2,29,6,6,6,6,5,26,5,6,6,3,4,2,2
+573,SME,23,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,2,30,6,6,6,6,6,26,5,5,6,4,2,4,4
+574,SME,48,Female,"College degree, bachelor, master",College degree,Mexico,1,30,6,6,6,6,6,20,2,6,6,4,1,1,1
+575,SME,27,Other/would rather not say,"College degree, bachelor, master",Up to 9 years of school,Mexico,3,28,6,6,5,6,5,31,6,6,5,4,4,6,6
+576,SME,27,Male,"Some College, short continuing education or equivalent",Some College or equivalent,Mexico,1,30,6,6,6,6,6,20,5,4,5,1,1,4,4
+577,LT,36,Male,PhD/Doctorate,Up to 12 years of school,Lithuania,1,25,5,5,5,5,5,29,4,5,5,5,5,5,5
+578,SAR,60,Male,Up to 12 years of school,None,Argentina,3,14,NA,5,NA,5,4,22,4,3,5,3,5,2,2
+579,SME,30,Female,"Some College, short continuing education or equivalent",College degree,Mexico,4,19,3,5,5,3,3,19,2,3,5,2,4,3,3
+580,SME,27,Female,"College degree, bachelor, master",College degree,Mexico,1,30,6,6,6,6,6,25,6,5,6,2,2,4,4
+581,SME,43,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Mexico,0,25,5,5,5,5,5,23,5,5,5,2,4,2,2
+582,SME,53,Female,PhD/Doctorate,College degree,Mexico,1,30,6,6,6,6,6,28,5,6,6,2,5,4,4
+583,SAR,49,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,8,26,6,6,3,6,5,17,NA,1,6,5,NA,5,5
+585,SAR,29,Male,None,Up to 12 years of school,Argentina,2,15,3,3,3,3,3,25,4,4,3,6,4,4,4
+586,SME,27,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,3,27,5,6,6,5,5,23,5,6,6,2,2,2,2
+587,SAR,21,Female,"Some College, short continuing education or equivalent",College degree,Argentina,1,24,5,5,4,5,5,25,5,5,5,2,5,3,3
+588,SME,19,Female,Up to 12 years of school,Up to 12 years of school,Mexico,3,20,3,6,4,4,3,27,6,6,6,4,2,3,3
+589,BG,52,Female,Up to 12 years of school,Up to 12 years of school,Bulgaria,0,5,1,1,1,1,1,15,2,2,2,6,2,1,1
+590,SME,31,Female,PhD/Doctorate,College degree,Mexico,1,27,5,6,6,5,5,30,6,6,6,2,5,5,5
+592,SME,33,Male,"College degree, bachelor, master",College degree,Mexico,2,23,5,5,3,5,5,25,6,6,6,2,3,2,2
+593,SAR,32,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,2,25,4,6,5,5,5,18,5,6,NA,1,2,4,4
+594,SME,36,Male,PhD/Doctorate,Up to 12 years of school,Mexico,1,26,6,6,4,5,5,22,5,5,6,2,2,2,2
+595,SME,27,Female,PhD/Doctorate,College degree,Mexico,3,30,6,6,6,6,6,27,6,6,6,2,3,4,4
+596,SAR,20,Female,"College degree, bachelor, master",College degree,Argentina,4,13,2,4,3,2,2,22,5,3,4,6,3,1,1
+597,EN,35,Male,"College degree, bachelor, master",College degree,Morocco,0,22,4,4,4,5,5,32,6,6,6,5,6,3,3
+598,SME,30,Male,PhD/Doctorate,Up to 12 years of school,Mexico,3,25,5,5,5,5,5,23,5,5,5,1,3,4,4
+599,SME,50,Male,"College degree, bachelor, master",Up to 6 years of school,Mexico,1,23,6,6,4,4,3,26,5,6,6,2,2,5,5
+601,SME,25,Female,"College degree, bachelor, master",College degree,Mexico,1,25,6,6,6,4,3,31,6,6,6,6,3,4,4
+602,SAR,33,Female,Up to 12 years of school,None,Argentina,2,22,1,5,5,5,6,21,5,6,6,1,1,2,2
+603,SME,26,Male,PhD/Doctorate,Up to 9 years of school,Mexico,0,27,6,6,6,5,4,20,6,5,6,1,1,1,1
+605,SME,55,Female,Up to 12 years of school,Up to 9 years of school,Mexico,1,30,6,6,6,6,6,26,6,6,6,1,6,1,1
+606,SME,41,Female,"College degree, bachelor, master",Up to 6 years of school,Mexico,9,25,5,5,5,5,5,26,5,5,6,5,1,4,4
+607,SME,20,Male,"Some College, short continuing education or equivalent",College degree,Mexico,2,13,2,4,2,2,3,12,2,2,2,3,1,2,2
+608,SAR,36,Female,"College degree, bachelor, master",College degree,Argentina,1,26,5,6,6,5,4,29,6,6,6,2,5,4,4
+609,SAR,25,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,2,26,6,6,4,6,4,27,6,6,5,6,4,NA,NA
+610,SAR,69,Female,PhD/Doctorate,Some College or equivalent,Argentina,0,29,5,6,6,6,6,21,5,6,5,1,2,2,2
+611,SME,64,Male,PhD/Doctorate,Up to 9 years of school,Panama,4,25,5,5,5,5,5,28,5,5,5,5,4,4,4
+612,SAR,67,Male,"College degree, bachelor, master",Some College or equivalent,Argentina,1,21,4,5,4,4,4,27,5,5,5,4,4,4,4
+613,SAR,56,Male,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,1,25,5,5,5,5,5,28,6,5,6,2,5,4,4
+614,SAR,24,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,18,3,6,4,3,2,23,5,5,5,3,2,3,3
+616,SAR,44,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,3,29,6,6,6,6,5,29,6,6,6,1,4,6,6
+618,SAR,67,Female,None,None,Argentina,1,30,6,6,6,6,6,28,2,6,6,5,6,3,3
+620,SME,27,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,0,27,6,6,5,5,5,25,5,6,6,3,3,2,2
+621,SME,18,Male,Up to 12 years of school,Up to 12 years of school,Mexico,2,20,1,6,6,5,2,21,4,5,6,1,1,4,4
+622,SAR,45,Female,Up to 12 years of school,Up to 6 years of school,Argentina,NA,25,5,5,5,5,5,29,5,5,5,5,5,4,4
+623,SAR,52,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,0,28,5,6,6,6,5,25,5,6,6,2,4,2,2
+624,SME,54,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Mexico,0,9,2,NA,3,NA,4,23,2,6,6,3,4,2,2
+625,SAR,51,Male,Up to 9 years of school,Up to 6 years of school,Argentina,1,22,4,6,4,4,4,33,6,6,6,3,6,6,6
+626,SME,26,Male,"College degree, bachelor, master",Up to 9 years of school,Mexico,2,30,6,6,6,6,6,23,6,6,6,1,3,1,1
+627,SME,35,Female,"College degree, bachelor, master",Some College or equivalent,Mexico,1,21,4,6,NA,6,5,24,6,6,6,2,2,2,2
+628,SME,37,Male,"College degree, bachelor, master",College degree,Mexico,4,27,6,6,5,5,5,24,5,6,6,2,1,4,4
+629,BG,75,Female,Up to 12 years of school,NA,Bulgaria,1,9,5,4,NA,NA,NA,19,5,4,4,2,2,2,2
+630,SAR,53,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,2,23,5,5,3,5,5,30,6,6,6,1,6,5,5
+631,FR,24,Male,"College degree, bachelor, master",Some College or equivalent,France,3,26,4,5,5,6,6,26,6,5,5,3,5,2,2
+632,SME,24,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,2,28,6,6,5,6,5,22,6,6,6,1,2,1,1
+634,BG,61,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,1,30,6,6,6,6,6,26,6,6,6,2,3,3,3
+635,SME,29,Male,"Some College, short continuing education or equivalent",College degree,Mexico,4,26,5,6,5,5,5,22,5,5,5,2,2,3,3
+636,SME,26,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,4,17,4,4,4,3,2,20,5,4,4,1,4,2,2
+637,BG,31,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Bulgaria,0,20,4,5,5,2,4,22,5,5,5,1,5,1,1
+638,SME,50,Male,PhD/Doctorate,None,Mexico,1,25,5,6,5,5,4,24,6,5,5,2,2,4,4
+639,SAR,50,Female,Up to 9 years of school,Up to 12 years of school,Argentina,0,21,4,5,4,4,4,32,6,6,6,4,6,4,4
+640,SAR,40,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,1,28,6,6,6,5,5,27,6,5,5,5,2,4,4
+641,SAR,46,Male,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,1,13,3,3,3,2,2,23,1,4,4,5,4,5,5
+642,SAR,28,Female,"Some College, short continuing education or equivalent",College degree,Argentina,1,15,2,4,4,3,2,24,5,5,6,4,3,1,1
+643,SME,36,Male,"College degree, bachelor, master",Up to 9 years of school,Mexico,0,8,2,1,5,NA,NA,22,5,5,5,3,2,2,2
+644,SAR,58,Female,None,Up to 12 years of school,Argentina,2,28,6,6,5,6,5,27,6,6,6,2,5,2,2
+645,SME,24,Male,"College degree, bachelor, master",Up to 12 years of school,Guatemala,3,21,5,6,3,4,3,23,5,5,5,2,4,2,2
+646,BG,49,Female,None,None,NA,0,24,5,5,4,5,5,18,3,2,6,2,3,2,2
+647,SAR,39,Other/would rather not say,None,Up to 6 years of school,Argentina,7,18,4,4,4,NA,6,28,6,6,6,2,6,2,2
+648,SAR,19,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,2,6,1,1,2,1,1,24,3,6,6,3,4,2,2
+650,SME,26,Female,"Some College, short continuing education or equivalent",College degree,Mexico,5,29,6,6,5,6,6,23,4,5,4,3,3,4,4
+651,SK,40,Other/would rather not say,"College degree, bachelor, master",Up to 12 years of school,NA,NA,18,3,4,3,4,4,25,5,5,5,3,4,3,3
+652,BG,50,Other/would rather not say,Up to 12 years of school,Up to 6 years of school,Bulgaria,0,7,1,1,1,1,3,23,5,5,2,5,4,2,2
+653,BG,60,Other/would rather not say,NA,NA,NA,NA,29,5,6,6,6,6,24,6,6,6,1,1,4,4
+654,SAR,46,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,2,15,3,3,3,3,3,29,5,6,6,3,5,4,4
+655,BG,36,Male,"College degree, bachelor, master",College degree,Bulgaria,3,26,6,5,5,5,5,29,5,5,5,5,5,4,4
+656,BG,55,Female,Up to 12 years of school,Up to 12 years of school,Bulgaria,0,25,5,5,5,5,5,28,6,6,5,2,5,4,4
+657,SME,33,Male,Up to 12 years of school,Up to 6 years of school,Mexico,1,19,2,4,3,5,5,22,5,5,6,2,1,3,3
+658,BG,64,Female,Up to 12 years of school,Up to 9 years of school,Bulgaria,1,9,1,2,2,2,2,22,6,3,3,2,4,4,4
+659,BG,53,Female,"College degree, bachelor, master",NA,NA,0,20,4,NA,6,6,4,22,6,6,6,1,2,1,1
+660,SME,46,Male,Up to 12 years of school,Up to 9 years of school,Mexico,2,25,5,5,5,5,5,24,4,6,5,2,5,2,2
+661,SAR,51,Female,Up to 9 years of school,NA,Argentina,NA,10,NA,5,NA,5,NA,29,6,6,6,1,6,4,4
+663,SME,28,Female,"College degree, bachelor, master",College degree,Mexico,1,28,5,6,5,6,6,26,6,6,6,2,2,4,4
+664,IT,44,Female,"College degree, bachelor, master",Up to 6 years of school,Italy,NA,21,2,5,4,5,5,25,3,5,5,4,4,4,4
+665,EN,18,Female,"College degree, bachelor, master",College degree,India,3,23,5,6,NA,6,6,32,6,6,5,3,6,6,6
+666,SME,37,Male,"Some College, short continuing education or equivalent",None,Mexico,0,25,5,5,5,5,5,11,4,1,1,1,3,1,1
+667,SME,19,Male,Up to 12 years of school,Up to 9 years of school,Mexico,3,19,NA,6,4,4,5,20,5,5,3,1,5,1,1
+668,SME,26,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,6,25,5,5,5,5,5,25,6,5,5,3,4,2,2
+669,SME,26,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,1,28,4,6,6,6,6,26,6,5,5,5,3,2,2
+670,SAR,38,Female,"Some College, short continuing education or equivalent",College degree,Argentina,0,25,4,6,5,5,5,25,5,5,6,2,5,2,2
+671,SAR,59,Male,"College degree, bachelor, master",Some College or equivalent,Argentina,1,24,5,6,6,3,4,23,5,5,5,2,3,3,3
+672,SAR,61,Female,Up to 12 years of school,Up to 6 years of school,Argentina,0,22,5,5,4,3,5,26,4,5,5,5,5,2,2
+673,TR,21,Female,"College degree, bachelor, master",Up to 9 years of school,Turkey,3,21,4,4,4,4,5,20,3,4,3,4,2,4,4
+674,SME,20,Male,"College degree, bachelor, master",College degree,Mexico,2,25,5,5,5,4,6,24,4,5,6,2,3,4,4
+675,SME,45,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,NA,30,6,6,6,6,6,24,2,5,6,4,3,4,4
+676,SME,27,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,3,26,6,6,6,4,4,28,5,6,6,3,5,3,3
+677,SAR,23,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,2,27,4,6,5,6,6,29,5,6,6,4,4,4,4
+679,BG,18,Male,"College degree, bachelor, master",College degree,Bulgaria,0,26,5,5,5,6,5,22,4,4,5,2,3,4,4
+681,SME,22,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,3,21,4,6,5,3,3,24,4,5,5,5,3,2,2
+682,BG,62,Female,Up to 12 years of school,Up to 9 years of school,Bulgaria,0,30,6,6,6,6,6,29,6,6,6,6,4,1,1
+683,SME,31,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,0,26,6,6,5,5,4,21,3,6,5,1,4,2,2
+684,SME,32,Male,Up to 12 years of school,Up to 9 years of school,Mexico,1,18,5,5,4,2,2,18,6,4,4,1,1,2,2
+685,BG,65,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,0,29,6,6,6,6,5,10,2,1,2,1,3,1,1
+686,SME,34,Male,"College degree, bachelor, master",Up to 6 years of school,Mexico,1,25,5,6,6,4,4,20,4,6,6,1,1,2,2
+687,SR,22,Male,"Some College, short continuing education or equivalent",Some College or equivalent,Bosnia and Herzegovina,3,24,2,6,6,5,5,23,5,5,5,3,2,3,3
+689,SAR,50,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,1,21,4,4,3,5,5,28,4,5,5,5,4,5,5
+691,FI,60,Male,Up to 6 years of school,Up to 6 years of school,Finland,0,29,6,6,5,6,6,24,6,6,6,1,4,1,1
+692,SME,37,Male,PhD/Doctorate,College degree,Mexico,4,29,6,6,5,6,6,16,2,5,5,1,1,2,2
+694,BG,58,Female,Up to 12 years of school,College degree,Bulgaria,0,11,2,2,4,1,2,18,3,3,5,4,2,1,1
+695,BG,67,Female,Up to 12 years of school,Up to 9 years of school,Bulgaria,0,17,3,4,3,4,3,22,4,5,5,2,3,3,3
+696,SME,28,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,2,26,6,6,5,5,4,29,5,6,6,4,2,6,6
+697,SME,33,Male,"College degree, bachelor, master",College degree,Mexico,4,25,5,5,5,5,5,22,5,5,5,2,3,2,2
+698,SME,22,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,1,19,1,6,4,4,4,26,6,6,6,4,3,1,1
+699,SME,24,Male,"College degree, bachelor, master",College degree,Mexico,2,29,5,6,6,6,6,24,2,5,6,4,2,5,5
+701,SME,21,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Mexico,1,22,2,6,5,5,4,26,6,6,6,1,5,2,2
+702,SME,56,Male,"College degree, bachelor, master",Up to 9 years of school,Mexico,0,30,6,6,6,6,6,29,6,6,6,2,6,3,3
+703,BG,49,Female,"Some College, short continuing education or equivalent",College degree,Bulgaria,2,19,4,6,4,3,2,30,6,6,6,2,4,6,6
+704,BG,62,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Bulgaria,5,3,1,1,1,NA,NA,12,5,2,1,1,2,1,1
+705,BG,66,Female,Up to 12 years of school,NA,Bulgaria,0,4,1,3,NA,NA,NA,20,4,5,3,1,5,2,2
+706,BG,53,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,0,10,2,2,2,2,2,23,5,5,2,2,5,4,4
+707,SAR,21,Female,"Some College, short continuing education or equivalent",College degree,Argentina,2,23,4,5,2,6,6,31,6,6,5,6,6,2,2
+708,BG,46,Female,"College degree, bachelor, master",None,Bulgaria,1,25,5,5,5,5,5,26,6,4,6,1,3,6,6
+709,SME,23,Male,"College degree, bachelor, master",Up to 6 years of school,Mexico,4,26,6,6,6,4,4,30,5,5,5,4,5,6,6
+710,IT,69,Female,"College degree, bachelor, master",Up to 6 years of school,Italy,NA,16,2,2,2,5,5,25,5,5,5,4,5,1,1
+711,BG,52,Female,"Some College, short continuing education or equivalent",College degree,Bulgaria,NA,12,1,1,1,5,4,13,2,1,5,2,2,1,1
+712,BG,59,Female,Up to 12 years of school,Up to 9 years of school,Bulgaria,0,12,2,4,NA,3,3,22,5,3,3,4,4,3,3
+713,FI,37,Male,"Some College, short continuing education or equivalent",Some College or equivalent,Finland,NA,17,4,2,3,6,2,32,6,6,6,6,5,3,3
+714,SME,27,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,1,25,5,6,5,5,4,22,4,5,6,2,1,4,4
+717,SME,33,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,1,25,5,5,5,5,5,26,5,5,5,5,2,4,4
+718,SME,34,Male,"College degree, bachelor, master",Up to 9 years of school,United States,0,19,3,5,3,4,4,23,6,5,5,2,4,1,1
+719,SAR,69,Male,"College degree, bachelor, master",Up to 6 years of school,Argentina,1,20,5,5,5,5,NA,22,4,5,5,2,4,2,2
+720,SAR,35,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,0,5,1,1,1,1,1,18,5,6,NA,3,2,2,2
+722,SAR,50,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,0,23,4,5,5,5,4,21,4,5,4,2,4,2,2
+723,SAR,59,Female,"College degree, bachelor, master",None,Argentina,0,18,6,2,2,4,4,31,6,6,6,4,5,4,4
+724,SME,29,Male,"College degree, bachelor, master",College degree,Mexico,4,17,4,5,3,3,2,24,5,6,6,1,1,5,5
+727,SAR,49,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,4,24,4,5,5,5,5,24,4,5,5,2,2,6,6
+728,IT,67,Male,"College degree, bachelor, master",Up to 9 years of school,Italy,NA,22,4,4,4,5,5,23,5,5,4,3,4,2,2
+729,SME,29,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,1,25,5,6,5,5,4,24,4,5,5,3,4,3,3
+730,BG,65,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Bulgaria,1,6,1,2,1,2,NA,25,4,6,6,4,4,1,1
+731,IT,50,Male,"College degree, bachelor, master",Up to 12 years of school,Italy,NA,26,6,6,5,5,4,23,5,5,5,2,4,2,2
+732,BG,60,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,1,8,1,2,2,1,2,22,5,3,4,4,5,1,1
+733,SK,33,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,1,21,5,4,4,4,4,22,4,5,4,3,3,3,3
+734,SAR,32,Female,"Some College, short continuing education or equivalent",College degree,Argentina,1,26,5,6,6,5,4,29,6,6,6,3,6,2,2
+735,BG,56,Female,"College degree, bachelor, master",College degree,Bulgaria,2,10,2,2,2,2,2,19,1,6,6,1,1,4,4
+736,BG,50,Female,"College degree, bachelor, master",College degree,Bulgaria,NA,24,5,5,5,5,4,27,6,6,6,1,4,4,4
+737,SAR,41,Female,"Some College, short continuing education or equivalent",None,Argentina,1,22,2,5,5,5,5,21,5,5,5,2,1,3,3
+739,IT,47,Female,Up to 12 years of school,Up to 12 years of school,Italy,NA,26,5,6,5,5,5,32,5,6,5,6,5,5,5
+740,SME,24,Male,"Some College, short continuing education or equivalent",Up to 9 years of school,Mexico,1,18,4,5,4,3,2,17,4,4,3,3,2,1,1
+741,IT,63,Female,"College degree, bachelor, master",Up to 12 years of school,Italy,0,14,5,3,2,2,2,20,5,6,1,2,4,2,2
+742,SME,30,Male,"College degree, bachelor, master",College degree,Mexico,0,29,6,6,6,6,5,30,5,6,6,6,1,6,6
+743,LT,54,Female,"College degree, bachelor, master",College degree,Lithuania,0,17,3,3,4,4,3,22,4,4,4,2,4,4,4
+746,LT,65,Female,"College degree, bachelor, master",Some College or equivalent,Lithuania,NA,18,2,3,3,5,5,24,5,5,5,2,5,2,2
+747,SME,24,Male,"College degree, bachelor, master",College degree,Mexico,1,30,6,6,6,6,6,22,5,5,5,2,1,4,4
+749,BG,31,Male,"College degree, bachelor, master",College degree,Bulgaria,4,10,2,2,2,2,2,17,3,3,1,6,3,1,1
+750,BG,69,Female,"College degree, bachelor, master",Up to 12 years of school,Bulgaria,0,13,2,2,4,2,3,21,4,4,6,2,3,2,2
+751,IT,46,Female,"College degree, bachelor, master",Up to 6 years of school,Italy,0,10,1,1,1,2,5,21,4,6,2,2,6,1,1
+752,IT,59,Male,"College degree, bachelor, master",Up to 12 years of school,Italy,0,10,2,2,2,2,2,27,5,5,5,5,5,2,2
+753,SAR,31,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,NA,24,4,5,5,5,5,24,5,5,5,2,5,2,2
+754,SME,34,Male,"College degree, bachelor, master",College degree,Mexico,2,30,6,6,6,6,6,25,6,6,6,1,2,4,4
+755,SME,35,Female,"College degree, bachelor, master",Some College or equivalent,Mexico,2,29,6,6,6,6,5,31,6,6,6,4,4,5,5
+756,BG,55,Female,Up to 12 years of school,Up to 12 years of school,Bulgaria,1,21,5,5,5,3,3,22,5,5,4,2,5,1,1
+757,BG,49,Male,"Some College, short continuing education or equivalent",Up to 6 years of school,Bulgaria,NA,3,3,NA,NA,NA,NA,3,NA,NA,NA,3,NA,NA,NA
+758,SAR,28,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,NA,26,5,6,5,5,5,23,5,6,4,4,2,2,2
+759,SME,18,Male,Up to 12 years of school,Up to 12 years of school,Mexico,1,25,5,4,4,6,6,28,5,6,6,4,3,4,4
+760,SME,37,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,1,25,5,6,5,5,4,28,5,6,6,2,4,5,5
+765,SAR,45,Male,"College degree, bachelor, master",Up to 6 years of school,Argentina,1,27,5,5,6,6,5,28,4,6,6,5,5,2,2
+767,SME,27,Male,"Some College, short continuing education or equivalent",Up to 9 years of school,Mexico,3,21,4,6,4,3,4,25,3,5,5,5,3,4,4
+768,SME,32,Male,"College degree, bachelor, master",Up to 9 years of school,Mexico,1,22,4,4,4,5,5,22,4,4,5,3,4,2,2
+770,SME,31,Male,PhD/Doctorate,Some College or equivalent,Mexico,3,28,6,6,6,5,5,23,5,6,6,1,2,3,3
+771,SME,55,Male,PhD/Doctorate,None,Mexico,3,26,6,6,5,5,4,26,6,6,6,1,4,3,3
+772,SME,22,Male,"College degree, bachelor, master",College degree,Mexico,5,28,6,6,6,5,5,23,5,5,5,1,3,4,4
+773,SME,32,Male,PhD/Doctorate,Some College or equivalent,Mexico,3,28,6,6,6,6,4,22,5,5,5,2,3,2,2
+775,SME,29,Male,"Some College, short continuing education or equivalent",Up to 9 years of school,Mexico,0,20,5,5,3,4,3,22,5,5,4,1,5,2,2
+776,SAR,31,Female,"Some College, short continuing education or equivalent",College degree,Argentina,1,10,4,1,1,1,3,26,6,6,5,1,6,2,2
+777,SAR,39,Female,PhD/Doctorate,PhD/Doctorate,Argentina,1,22,3,4,5,6,4,26,6,6,6,2,5,1,1
+778,SME,25,Female,"Some College, short continuing education or equivalent",College degree,Mexico,3,28,5,6,5,6,6,22,5,6,5,2,3,1,1
+779,SAR,67,Male,"College degree, bachelor, master",Up to 9 years of school,Argentina,1,14,2,3,4,4,1,22,6,4,6,1,NA,5,5
+780,SAR,43,Male,Up to 9 years of school,Up to 12 years of school,Argentina,2,17,5,1,5,5,1,27,6,4,5,5,3,4,4
+781,SME,43,Male,"Some College, short continuing education or equivalent",Up to 6 years of school,Mexico,1,22,4,6,2,5,5,23,6,6,6,1,2,2,2
+782,SME,25,Male,"College degree, bachelor, master",College degree,Mexico,3,28,5,6,6,6,5,22,6,6,4,1,4,1,1
+784,SME,22,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,2,30,6,6,6,6,6,20,5,4,6,1,3,1,1
+785,SAR,46,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,6,8,NA,4,NA,4,NA,25,6,4,4,6,3,2,2
+786,SME,48,Male,PhD/Doctorate,Some College or equivalent,Mexico,0,25,6,6,6,2,5,28,5,5,5,5,3,5,5
+787,SME,55,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Mexico,3,25,6,6,4,5,4,32,6,6,6,6,4,4,4
+788,SME,30,Male,"College degree, bachelor, master",Up to 6 years of school,Mexico,2,30,6,6,6,6,6,27,6,6,6,1,4,4,4
+789,SAR,52,Female,"College degree, bachelor, master",Up to 6 years of school,Argentina,NA,25,6,6,5,5,3,26,5,6,6,2,5,2,2
+791,SME,24,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,4,16,3,5,3,4,1,22,6,5,5,1,3,2,2
+792,SME,27,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,0,25,5,5,5,5,5,26,5,5,5,2,4,5,5
+794,SAR,36,Female,Up to 12 years of school,Up to 9 years of school,Argentina,4,9,2,2,2,2,1,29,5,6,6,5,1,6,6
+795,SAR,61,Female,"Some College, short continuing education or equivalent",None,Argentina,2,24,6,6,6,NA,6,26,6,6,6,1,6,1,1
+796,SME,31,Male,PhD/Doctorate,College degree,Mexico,1,25,5,5,5,5,5,26,5,5,5,5,3,3,3
+797,SME,27,Male,"College degree, bachelor, master",College degree,Mexico,2,28,6,6,6,5,5,26,5,4,5,5,2,5,5
+798,SME,44,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,2,25,6,6,6,3,4,22,3,6,6,2,4,1,1
+799,SAR,45,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,3,24,4,5,4,5,6,18,3,5,4,2,2,2,2
+800,SME,18,Male,Up to 12 years of school,Up to 9 years of school,Mexico,4,23,5,5,5,6,2,27,4,6,6,2,4,5,5
+801,SME,22,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,2,17,3,4,3,3,4,23,4,4,4,3,4,4,4
+802,TR,32,Female,PhD/Doctorate,Up to 6 years of school,Turkey,2,28,6,6,6,5,5,28,6,6,6,1,5,4,4
+803,SME,27,Male,Up to 12 years of school,Up to 12 years of school,Mexico,3,30,6,6,6,6,6,24,6,6,5,1,5,1,1
+804,SAR,61,Female,"College degree, bachelor, master",Up to 6 years of school,Argentina,0,20,1,6,6,4,3,25,6,5,5,2,5,2,2
+805,SME,46,Female,Up to 12 years of school,Some College or equivalent,Mexico,5,26,5,6,5,5,5,29,6,5,6,2,5,5,5
+807,SME,22,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,2,30,6,6,6,6,6,24,5,4,3,4,3,5,5
+808,SAR,57,Male,None,Some College or equivalent,Argentina,1,19,2,3,3,5,6,17,1,3,5,3,4,1,1
+809,SME,28,Female,"College degree, bachelor, master",Some College or equivalent,Mexico,3,29,6,6,6,6,5,22,6,5,4,2,4,1,1
+810,SAR,40,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,2,21,6,4,4,3,4,23,4,6,6,1,4,2,2
+811,SME,36,Female,PhD/Doctorate,Up to 12 years of school,Mexico,0,20,4,4,4,4,4,22,4,4,4,2,4,4,4
+812,IT,67,Female,"College degree, bachelor, master",Up to 12 years of school,Italy,NA,8,2,2,2,1,1,20,5,5,2,5,2,1,1
+813,SME,21,Male,"Some College, short continuing education or equivalent",PhD/Doctorate,Mexico,1,30,6,6,6,6,6,21,6,6,6,1,1,1,1
+814,SME,59,Female,PhD/Doctorate,Up to 12 years of school,Mexico,6,23,4,5,4,5,5,25,5,5,4,3,4,4,4
+816,SME,20,Female,"College degree, bachelor, master",PhD/Doctorate,Mexico,1,25,3,6,4,6,6,22,6,4,5,2,4,1,1
+817,SME,59,Female,"College degree, bachelor, master",Some College or equivalent,Mexico,2,30,6,6,6,6,6,26,5,6,6,3,5,1,1
+818,SME,18,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,2,30,6,6,6,6,6,29,4,6,6,6,6,1,1
+819,SME,18,Male,Up to 12 years of school,Some College or equivalent,Mexico,3,30,6,6,6,6,6,21,5,6,6,1,2,1,1
+820,SME,42,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Mexico,3,30,6,6,6,6,6,21,3,6,6,2,2,2,2
+822,SME,27,Male,"College degree, bachelor, master",Up to 6 years of school,Mexico,3,21,1,6,6,4,4,22,5,3,4,5,4,1,1
+823,SME,36,Male,"College degree, bachelor, master",College degree,Mexico,2,14,1,6,5,1,1,19,6,4,6,1,1,1,1
+824,SME,21,Male,"Some College, short continuing education or equivalent",Some College or equivalent,Mexico,1,27,5,6,4,6,6,21,5,5,5,2,2,2,2
+825,SAR,44,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,NA,29,6,6,6,6,5,32,6,6,6,2,6,6,6
+826,SME,20,Male,Up to 12 years of school,Some College or equivalent,Mexico,2,20,1,4,4,6,5,22,5,5,6,1,2,3,3
+827,SME,54,Female,PhD/Doctorate,Up to 9 years of school,Mexico,2,27,5,6,5,6,5,23,6,6,5,2,2,2,2
+828,SAR,49,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,NA,30,6,6,6,6,6,26,6,6,6,1,4,3,3
+829,SME,24,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,2,28,6,6,6,6,4,22,6,5,5,3,2,1,1
+830,SME,26,Female,"College degree, bachelor, master",Some College or equivalent,Mexico,1,29,6,6,6,6,5,21,5,5,6,2,1,2,2
+831,SME,28,Male,"College degree, bachelor, master",College degree,Mexico,0,30,6,6,6,6,6,28,4,5,5,5,5,4,4
+832,SME,39,Female,PhD/Doctorate,College degree,Mexico,1,24,6,6,3,6,3,29,6,6,6,4,1,6,6
+833,SAR,26,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,1,19,3,4,4,4,4,21,4,5,4,3,4,1,1
+834,SME,28,Male,PhD/Doctorate,College degree,Mexico,4,25,5,5,5,5,5,26,6,6,6,3,1,4,4
+835,SME,23,Male,Up to 12 years of school,Up to 6 years of school,Mexico,3,29,6,6,6,6,5,25,5,5,5,5,1,4,4
+836,SME,54,Male,"College degree, bachelor, master",Up to 6 years of school,Mexico,4,25,5,5,5,5,5,23,2,5,5,2,5,4,4
+837,SAR,61,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,0,18,1,4,3,5,5,23,6,6,6,1,3,1,1
+838,SAR,55,Male,"College degree, bachelor, master",Up to 6 years of school,Argentina,2,26,4,6,5,6,5,24,6,5,5,5,2,1,1
+839,SAR,60,Male,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,1,26,5,5,5,6,5,27,5,5,5,5,5,2,2
+840,SAR,63,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,3,27,5,5,5,6,6,30,6,6,6,4,4,4,4
+841,SME,50,Female,"College degree, bachelor, master",Some College or equivalent,Mexico,1,24,1,6,6,6,5,24,6,6,6,1,3,2,2
+842,IT,47,Female,"College degree, bachelor, master",Up to 12 years of school,Italy,0,28,5,6,5,6,6,26,6,6,6,1,3,4,4
+843,SME,37,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,1,25,5,5,5,5,5,31,6,6,5,2,6,6,6
+844,SAR,63,Female,"College degree, bachelor, master",Up to 6 years of school,Argentina,1,20,4,NA,4,6,6,23,6,5,5,1,4,2,2
+845,SAR,40,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,2,21,6,6,3,3,3,22,5,6,6,1,1,3,3
+846,SME,56,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,1,29,6,6,6,6,5,25,6,5,5,4,4,1,1
+848,SME,24,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,1,30,6,6,6,6,6,23,6,6,6,1,1,3,3
+849,IT,26,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Italy,NA,28,6,5,5,6,6,28,6,6,6,3,3,4,4
+850,SME,59,Female,"College degree, bachelor, master",None,Mexico,2,27,6,6,5,5,5,30,6,6,6,2,4,6,6
+851,SAR,58,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,1,29,5,6,6,6,6,28,5,5,5,5,5,3,3
+852,LT,28,Female,"College degree, bachelor, master",College degree,Italy,0,28,5,6,6,5,6,23,5,5,5,4,2,2,2
+853,IT,33,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Italy,1,15,2,3,2,4,4,25,6,6,5,5,2,1,1
+857,SME,34,Male,PhD/Doctorate,College degree,United States,0,20,5,5,4,3,3,23,6,5,6,3,2,1,1
+858,IT,60,Female,"College degree, bachelor, master",NA,Italy,0,19,3,3,3,5,5,23,5,5,5,2,3,3,3
+860,SME,32,Male,PhD/Doctorate,Some College or equivalent,Mexico,1,19,4,5,4,3,3,21,4,5,4,1,4,3,3
+861,SME,26,Female,"College degree, bachelor, master",College degree,Mexico,NA,30,6,6,6,6,6,23,6,6,6,1,1,3,3
+862,FI,47,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Finland,1,22,4,5,4,4,5,21,6,5,5,1,1,3,3
+863,IT,61,Female,PhD/Doctorate,Up to 12 years of school,Italy,NA,18,2,2,4,5,5,21,5,5,5,1,4,1,1
+864,SME,42,Female,PhD/Doctorate,Up to 12 years of school,Mexico,0,16,3,6,1,5,1,29,6,6,6,1,6,4,4
+865,IT,48,Male,"College degree, bachelor, master",Up to 12 years of school,Italy,NA,23,3,5,4,6,5,20,4,5,4,2,3,2,2
+866,SME,43,Female,"College degree, bachelor, master",Some College or equivalent,Mexico,3,25,5,6,4,5,5,23,5,5,5,3,3,2,2
+867,SME,54,Male,Up to 12 years of school,Up to 9 years of school,Mexico,NA,22,4,6,4,4,4,24,6,6,5,3,2,2,2
+868,SAR,57,Female,"Some College, short continuing education or equivalent",None,Argentina,4,22,2,5,5,5,5,30,6,5,6,5,3,5,5
+869,SME,48,Male,PhD/Doctorate,Up to 9 years of school,Mexico,4,28,6,6,6,5,5,29,6,6,6,2,5,4,4
+870,SAR,25,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,2,25,5,6,4,5,5,27,5,4,6,4,3,5,5
+871,LT,24,Female,"Some College, short continuing education or equivalent",College degree,Lithuania,NA,22,5,NA,6,6,5,31,5,6,6,4,4,6,6
+872,IT,56,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Italy,NA,17,3,3,3,3,5,23,5,5,5,4,3,1,1
+873,IT,44,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Italy,1,25,5,5,5,5,5,25,5,6,5,2,5,2,2
+874,SME,32,Male,PhD/Doctorate,Some College or equivalent,Mexico,NA,26,4,6,4,6,6,24,5,5,6,3,3,2,2
+875,SME,36,Male,PhD/Doctorate,Up to 12 years of school,Mexico,1,10,2,2,2,2,2,20,6,1,6,1,3,3,3
+876,SAR,23,Female,"Some College, short continuing education or equivalent",College degree,Argentina,1,25,4,6,5,6,4,29,6,6,5,5,4,3,3
+877,SME,33,Female,PhD/Doctorate,Up to 12 years of school,Mexico,2,23,3,6,4,6,4,25,6,5,5,3,2,4,4
+878,SME,32,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Mexico,2,22,4,5,4,5,4,26,6,5,4,3,4,4,4
+879,SME,38,Female,"College degree, bachelor, master",Up to 6 years of school,Mexico,1,25,5,5,5,5,5,26,6,6,6,4,1,3,3
+880,SME,32,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Mexico,4,29,6,6,6,6,5,21,4,6,6,2,1,2,2
+881,SME,54,Male,PhD/Doctorate,None,Mexico,3,30,6,6,6,6,6,27,6,6,6,3,3,3,3
+882,SME,31,Male,"College degree, bachelor, master",Up to 6 years of school,Mexico,4,23,5,5,5,4,4,18,4,4,3,2,2,3,3
+883,SME,55,Male,"College degree, bachelor, master",Some College or equivalent,Mexico,4,21,3,5,3,5,5,25,6,5,5,2,5,2,2
+884,RO,31,Male,"College degree, bachelor, master",College degree,Romania,2,26,4,6,6,5,5,23,5,5,4,2,3,4,4
+885,SME,54,Female,PhD/Doctorate,Up to 12 years of school,Mexico,0,22,1,5,5,6,5,25,6,6,6,2,3,2,2
+886,SAR,54,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,2,25,5,5,5,5,5,25,5,5,6,2,5,2,2
+887,LT,54,Male,"Some College, short continuing education or equivalent",College degree,Lithuania,NA,16,2,2,2,5,5,16,2,4,3,3,2,2,2
+888,SME,51,Male,"College degree, bachelor, master",College degree,Mexico,1,24,5,6,4,5,4,26,4,5,5,3,5,4,4
+889,SME,27,Female,"College degree, bachelor, master",College degree,Mexico,3,30,6,6,6,6,6,19,4,5,5,2,2,1,1
+890,EN,52,Female,"Some College, short continuing education or equivalent",NA,Australia,2,27,5,6,5,6,5,25,5,4,6,4,4,2,2
+894,SME,41,Male,PhD/Doctorate,College degree,Mexico,1,29,6,6,6,6,5,26,6,6,6,3,3,2,2
+895,LT,30,Female,"College degree, bachelor, master",College degree,Lithuania,NA,21,2,5,4,5,5,26,6,6,6,1,2,5,5
+896,SAR,58,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,0,17,4,4,3,3,3,23,5,5,5,5,2,1,1
+897,IT,48,Male,PhD/Doctorate,College degree,Italy,NA,23,4,5,4,5,5,24,5,5,5,5,3,1,1
+898,SME,30,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,6,30,6,6,6,6,6,23,5,6,6,3,1,2,2
+899,FI,63,Female,"College degree, bachelor, master",Up to 6 years of school,Finland,1,24,3,6,4,6,5,28,6,6,6,4,5,1,1
+900,SME,22,Female,"College degree, bachelor, master",PhD/Doctorate,Mexico,2,24,6,5,5,4,4,20,4,5,5,1,4,1,1
+901,IT,56,Female,Up to 12 years of school,Up to 9 years of school,Italy,NA,22,2,5,5,5,5,24,5,5,6,4,3,1,1
+902,SAR,49,Female,"College degree, bachelor, master",College degree,Argentina,1,23,4,5,5,5,4,30,6,6,6,6,4,2,2
+904,IT,57,Male,"College degree, bachelor, master",Up to 6 years of school,Italy,NA,25,5,5,5,5,5,21,3,5,5,3,4,1,1
+905,SAR,41,Male,PhD/Doctorate,Up to 12 years of school,Argentina,2,7,1,1,1,2,2,27,4,6,5,5,4,3,3
+906,EN,24,Female,"College degree, bachelor, master",College degree,Lithuania,0,26,6,6,4,5,5,23,4,6,6,2,4,1,1
+907,SME,57,Male,"Some College, short continuing education or equivalent",None,Panama,NA,25,5,5,5,5,5,31,6,6,6,3,5,5,5
+908,RO,34,Male,"College degree, bachelor, master",Up to 12 years of school,Romania,2,12,2,2,2,3,3,23,5,5,5,2,5,1,1
+909,IT,63,Female,"College degree, bachelor, master",Up to 12 years of school,Italy,1,27,5,5,5,6,6,30,5,6,6,6,3,4,4
+910,PT,32,Female,Up to 12 years of school,Up to 6 years of school,Portugal,NA,25,5,5,5,5,5,24,5,5,5,3,3,3,3
+911,SME,25,Female,"College degree, bachelor, master",College degree,Mexico,1,22,4,5,5,5,3,30,6,6,6,4,5,3,3
+912,IT,57,Female,NA,Up to 12 years of school,Italy,NA,18,5,4,4,3,2,24,5,6,5,3,3,2,2
+913,SAR,76,Male,PhD/Doctorate,Up to 12 years of school,Argentina,2,4,2,NA,2,NA,NA,21,5,4,5,NA,5,2,2
+914,SME,35,Female,"College degree, bachelor, master",College degree,Panama,6,23,5,6,4,4,4,24,4,5,5,3,3,4,4
+915,IT,54,Female,Up to 12 years of school,Up to 12 years of school,Italy,NA,17,2,5,2,5,3,22,5,6,5,2,2,2,2
+916,SAR,20,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,2,20,4,4,4,4,4,25,6,6,6,1,5,1,1
+917,IT,88,Male,"College degree, bachelor, master",Up to 9 years of school,Italy,NA,11,3,2,2,2,2,24,5,4,5,2,5,3,3
+918,SAR,66,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,1,19,4,5,NA,5,5,29,5,6,5,4,5,4,4
+919,SAR,63,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,3,15,4,1,1,5,4,28,5,6,5,4,4,4,4
+920,IT,71,Female,"College degree, bachelor, master",Up to 9 years of school,Italy,0,18,2,3,3,5,5,25,5,6,5,2,5,2,2
+921,SAR,53,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,0,16,4,6,6,NA,NA,28,5,5,6,4,4,4,4
+923,SAR,68,Male,Up to 12 years of school,Up to 12 years of school,Argentina,3,9,2,2,2,1,2,23,2,5,5,4,5,2,2
+924,SAR,40,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,1,24,4,6,4,5,5,21,6,6,6,NA,2,1,1
+925,SAR,59,Male,Up to 12 years of school,Up to 12 years of school,Argentina,1,19,2,4,3,6,4,30,6,6,5,6,5,2,2
+926,IT,59,Female,Up to 12 years of school,Up to 6 years of school,Italy,NA,13,2,5,2,2,2,18,1,5,5,2,3,2,2
+929,SAR,37,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,1,24,2,6,5,6,5,29,6,6,6,4,4,3,3
+930,SAR,64,Female,NA,College degree,Argentina,2,20,2,4,3,6,5,34,6,6,6,5,6,5,5
+931,BG,66,Female,PhD/Doctorate,College degree,Bulgaria,1,30,6,6,6,6,6,21,4,4,5,3,3,2,2
+932,FR,31,Female,PhD/Doctorate,College degree,Belgium,2,24,5,5,5,5,4,25,5,5,5,4,4,2,2
+933,BG,36,Male,"College degree, bachelor, master",College degree,Bulgaria,0,25,5,5,5,5,5,28,6,6,5,5,4,2,2
+935,IT,58,Male,"College degree, bachelor, master",Up to 9 years of school,Italy,NA,16,2,2,2,5,5,20,5,6,1,2,5,1,1
+936,LT,60,Male,PhD/Doctorate,College degree,Lithuania,NA,15,2,2,2,4,5,25,6,5,5,3,5,1,1
+937,IT,52,Male,Up to 9 years of school,Up to 6 years of school,Italy,NA,13,2,2,3,3,3,20,5,5,3,2,2,3,3
+939,LT,61,Female,"College degree, bachelor, master",College degree,Lithuania,NA,20,3,3,4,5,5,25,5,6,5,3,5,1,1
+940,SK,36,Female,"College degree, bachelor, master",Some College or equivalent,Slovakia,1,15,2,4,3,3,3,20,3,5,4,3,2,3,3
+941,IT,52,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Italy,1,5,1,1,1,1,1,27,2,5,5,5,6,4,4
+944,IT,58,Female,"College degree, bachelor, master",Some College or equivalent,Italy,1,7,1,2,2,1,1,27,6,6,5,4,5,1,1
+945,BG,46,Female,"College degree, bachelor, master",College degree,Bulgaria,NA,23,6,6,6,3,2,23,5,6,5,2,1,4,4
+947,FI,27,Other/would rather not say,Up to 12 years of school,None,Finland,NA,19,6,2,2,5,4,18,6,1,2,3,1,5,5
+948,SK,34,Female,"College degree, bachelor, master",College degree,Slovakia,0,11,1,2,2,2,4,15,1,1,6,2,4,1,1
+950,SK,33,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,0,18,3,4,4,3,4,24,4,5,5,3,4,3,3
+951,IT,47,NA,"Some College, short continuing education or equivalent",Some College or equivalent,Italy,NA,14,2,2,2,4,4,22,6,6,6,1,2,1,1
+952,SR,41,Male,Up to 12 years of school,Up to 12 years of school,Serbia,NA,17,3,4,4,3,3,22,5,4,5,2,4,2,2
+953,IT,62,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Italy,NA,23,5,5,5,5,3,29,5,5,6,3,5,5,5
+954,IT,61,Female,"College degree, bachelor, master",Up to 9 years of school,Italy,NA,12,4,3,3,NA,2,21,5,5,3,2,5,1,1
+955,IT,75,Female,Up to 9 years of school,None,Italy,NA,15,3,3,3,3,3,20,4,4,4,3,4,1,1
+956,IT,60,Female,NA,None,Italy,NA,25,5,5,5,5,5,23,5,6,6,1,4,1,1
+957,IT,63,Female,Up to 12 years of school,Up to 9 years of school,Italy,NA,15,2,2,2,4,5,26,5,5,5,4,5,2,2
+958,IT,66,Male,"College degree, bachelor, master",Up to 6 years of school,Italy,NA,15,2,2,2,4,5,21,5,1,5,4,5,1,1
+959,BG,36,Female,"College degree, bachelor, master",College degree,Bulgaria,0,22,4,6,4,4,4,22,4,4,4,5,1,4,4
+961,IT,63,Female,"College degree, bachelor, master",Up to 12 years of school,Italy,NA,21,3,4,4,5,5,27,5,5,5,5,5,2,2
+963,PT,49,Female,"College degree, bachelor, master",Up to 6 years of school,Portugal,NA,28,6,5,5,6,6,25,5,5,5,3,5,2,2
+965,IT,58,Female,"College degree, bachelor, master",Some College or equivalent,Italy,2,22,4,4,4,5,5,24,5,5,5,2,5,2,2
+966,IT,58,Female,"College degree, bachelor, master",Some College or equivalent,Italy,NA,28,5,6,5,6,6,25,2,6,6,5,4,2,2
+968,BG,65,Female,"College degree, bachelor, master",College degree,Bulgaria,0,15,1,2,2,5,5,14,1,5,3,2,2,1,1
+969,IT,65,Male,"Some College, short continuing education or equivalent",College degree,Italy,2,9,1,2,2,2,2,22,5,5,5,2,4,1,1
+970,BG,79,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Bulgaria,2,25,3,6,6,6,4,26,5,6,5,4,4,2,2
+971,NL,24,Male,"Some College, short continuing education or equivalent",College degree,Netherlands,1,21,4,5,4,4,4,25,5,5,5,4,4,2,2
+973,IT,64,Male,"Some College, short continuing education or equivalent",Some College or equivalent,Italy,NA,19,3,3,3,5,5,22,5,6,5,2,3,1,1
+974,SME,19,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Mexico,5,20,4,6,3,4,3,17,5,4,2,1,2,3,3
+975,IT,60,Female,"College degree, bachelor, master",Up to 9 years of school,Italy,NA,21,3,4,4,5,5,27,5,5,6,4,5,2,2
+976,LT,66,Female,"College degree, bachelor, master",Some College or equivalent,Lithuania,0,25,5,5,5,5,5,25,5,5,5,3,5,2,2
+978,BS,36,Female,"College degree, bachelor, master",Up to 12 years of school,Bosnia and Herzegovina,3,22,4,5,5,5,3,24,4,4,5,3,4,4,4
+979,IT,54,Male,"College degree, bachelor, master",College degree,Italy,NA,26,5,6,4,6,5,26,5,6,6,4,2,3,3
+981,SR,52,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Serbia,NA,30,6,6,6,6,6,28,6,6,5,5,4,2,2
+982,SAR,42,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,NA,21,3,5,5,5,3,13,5,1,1,1,3,2,2
+983,SK,55,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,1,14,2,2,2,5,3,26,6,6,5,2,4,3,3
+984,SAR,45,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,2,28,6,6,5,6,5,27,6,5,5,5,4,2,2
+985,SR,31,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Serbia,NA,20,4,6,4,3,3,16,2,4,4,2,3,1,1
+986,SR,52,Female,"College degree, bachelor, master",Up to 12 years of school,Serbia,3,26,3,6,5,6,6,26,6,6,6,2,4,2,2
+988,SK,38,Male,"College degree, bachelor, master",Up to 12 years of school,Slovakia,0,10,1,1,1,3,4,21,6,6,5,1,2,1,1
+989,LT,63,Male,"Some College, short continuing education or equivalent",College degree,Lithuania,0,15,3,3,3,3,3,18,3,4,4,2,4,1,1
+990,SR,38,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Serbia,NA,20,4,4,4,4,4,22,5,3,5,3,5,1,1
+991,BG,46,Female,PhD/Doctorate,College degree,Bulgaria,0,23,4,5,4,5,5,27,6,6,6,1,4,4,4
+992,SAR,70,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,9,NA,NA,4,5,NA,29,4,5,5,5,5,5,5
+993,SAR,50,Female,"College degree, bachelor, master",College degree,Argentina,0,16,4,3,3,3,3,18,3,3,3,3,3,3,3
+994,SK,35,Female,"College degree, bachelor, master",Some College or equivalent,Slovakia,1,20,3,4,3,6,4,21,5,4,4,3,3,2,2
+995,LT,49,Male,"College degree, bachelor, master",College degree,Lithuania,NA,17,3,3,3,4,4,29,6,6,6,2,5,4,4
+996,SR,55,Female,"College degree, bachelor, master",Some College or equivalent,Serbia,0,21,2,6,6,2,5,28,6,6,6,2,5,3,3
+1001,SR,33,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Serbia,3,22,2,6,6,4,4,20,4,5,4,2,4,1,1
+1002,SR,35,Female,"Some College, short continuing education or equivalent",NA,Serbia,2,19,3,4,4,4,4,19,4,5,5,2,2,1,1
+1003,SK,46,Female,"College degree, bachelor, master",College degree,Slovakia,NA,25,5,5,5,5,5,26,6,6,6,2,4,2,2
+1004,SR,35,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Serbia,NA,21,3,3,3,6,6,22,4,6,6,3,1,2,2
+1006,LT,29,Female,"College degree, bachelor, master",College degree,Lithuania,NA,22,3,5,4,5,5,24,5,5,5,2,3,4,4
+1007,SR,31,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Serbia,0,21,3,3,3,6,6,23,3,5,5,4,4,2,2
+1008,SR,56,Female,"College degree, bachelor, master",Up to 9 years of school,Serbia,1,19,3,4,3,4,5,23,5,4,5,3,4,2,2
+1010,SME,20,Female,"College degree, bachelor, master",College degree,Mexico,2,30,6,6,6,6,6,27,5,6,6,4,2,4,4
+1011,SME,52,Male,Up to 12 years of school,None,United States,1,30,6,6,6,6,6,32,6,6,6,4,4,6,6
+1012,SK,39,Female,"College degree, bachelor, master",College degree,Slovakia,NA,18,2,3,3,5,5,26,4,6,6,3,4,3,3
+1013,SME,22,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Mexico,2,27,6,6,5,5,5,24,4,6,6,3,4,1,1
+1015,LT,27,Female,"Some College, short continuing education or equivalent",College degree,Sweden,NA,16,4,4,4,2,2,22,5,3,5,2,3,4,4
+1018,SAR,63,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,2,16,1,NA,5,5,5,25,5,5,5,4,5,1,1
+1020,SME,38,Male,"Some College, short continuing education or equivalent",Up to 9 years of school,Mexico,0,17,6,6,5,NA,NA,25,5,6,5,3,4,2,2
+1022,SME,35,Female,"College degree, bachelor, master",Up to 6 years of school,Mexico,3,27,6,6,6,5,4,23,5,6,6,2,3,1,1
+1024,LT,33,Female,"College degree, bachelor, master",NA,Lithuania,0,24,4,5,4,6,5,25,6,4,5,6,2,2,2
+1025,SME,22,Male,"College degree, bachelor, master",Up to 12 years of school,Mexico,2,27,6,6,6,6,3,28,6,5,6,4,3,4,4
+1026,SAR,21,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,1,24,5,2,6,6,5,26,6,6,6,3,3,2,2
+1027,SME,18,Female,"College degree, bachelor, master",PhD/Doctorate,Mexico,2,29,6,6,6,6,5,27,6,5,6,5,3,2,2
+1028,SK,58,Female,Up to 12 years of school,Up to 9 years of school,Slovakia,0,19,4,4,4,3,4,27,5,5,5,5,4,3,3
+1029,SK,40,Female,"College degree, bachelor, master",College degree,Slovakia,2,22,4,4,4,4,6,23,4,6,6,1,3,3,3
+1030,SME,23,Female,"College degree, bachelor, master",College degree,Mexico,0,28,6,6,6,5,5,28,5,6,6,4,3,4,4
+1031,SME,25,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,3,30,6,6,6,6,6,24,6,6,6,4,1,1,1
+1032,SME,26,Male,PhD/Doctorate,Up to 12 years of school,Mexico,3,25,6,6,4,5,4,18,5,5,5,1,1,1,1
+1033,SAR,24,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,3,23,1,6,5,6,5,24,5,4,5,2,5,3,3
+1034,LT,26,Female,"College degree, bachelor, master",College degree,Lithuania,1,21,4,5,4,4,4,21,5,5,5,2,3,1,1
+1035,SK,23,Female,"College degree, bachelor, master",College degree,Slovakia,5,20,3,4,4,4,5,23,6,6,2,4,3,2,2
+1038,SME,26,Female,PhD/Doctorate,Some College or equivalent,Mexico,0,26,5,6,5,5,5,27,5,6,6,4,2,4,4
+1039,SAR,69,Female,PhD/Doctorate,Up to 12 years of school,Argentina,0,25,5,5,5,5,5,27,5,6,6,4,4,2,2
+1041,SME,21,Female,"College degree, bachelor, master",Up to 12 years of school,Mexico,2,25,5,5,5,5,5,23,4,6,6,4,1,2,2
+1042,SAR,58,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,2,30,6,6,6,6,6,26,4,6,5,3,4,4,4
+1043,SAR,37,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,1,20,5,5,4,4,2,30,4,5,6,6,4,5,5
+1044,SAR,40,Female,PhD/Doctorate,PhD/Doctorate,Argentina,1,27,6,6,5,5,5,25,5,6,6,2,4,2,2
+1045,EN,25,Female,"College degree, bachelor, master",College degree,Lithuania,1,19,2,3,4,5,5,22,6,5,6,1,3,1,1
+1046,SME,29,Male,PhD/Doctorate,College degree,Mexico,1,29,6,5,6,6,6,25,5,5,5,5,1,4,4
+1047,SAR,28,Female,Up to 12 years of school,Up to 6 years of school,Argentina,1,18,2,3,3,5,5,28,6,6,6,1,4,5,5
+1048,SAR,52,Female,None,Up to 12 years of school,Argentina,2,8,2,NA,1,5,NA,26,6,6,6,1,4,3,3
+1049,SAR,45,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,24,5,5,5,5,4,28,5,6,6,2,5,4,4
+1050,FR,20,Male,"College degree, bachelor, master",Some College or equivalent,France,0,10,1,1,1,5,2,14,2,2,6,2,1,1,1
+1051,SAR,40,Female,Up to 12 years of school,Up to 6 years of school,Argentina,3,26,5,6,5,5,5,23,6,6,6,2,2,1,1
+1052,SAR,49,Female,"College degree, bachelor, master",Up to 6 years of school,Argentina,3,9,5,1,1,1,1,26,5,6,5,5,4,1,1
+1053,SAR,41,Male,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,1,24,4,5,5,5,5,32,5,6,6,6,5,4,4
+1054,SAR,64,Female,PhD/Doctorate,Up to 12 years of school,Argentina,1,28,5,6,6,6,5,29,6,6,6,2,5,4,4
+1055,SAR,26,Female,Up to 12 years of school,Up to 12 years of school,Argentina,2,20,2,5,5,5,3,21,3,5,5,1,5,2,2
+1057,SME,61,Female,PhD/Doctorate,Up to 6 years of school,Mexico,1,25,5,5,5,5,5,32,6,6,6,4,6,4,4
+1058,SME,27,Male,PhD/Doctorate,PhD/Doctorate,Mexico,2,22,4,6,4,4,4,27,6,6,6,1,3,5,5
+1059,SAR,34,Female,Up to 12 years of school,College degree,Argentina,5,24,4,4,4,6,6,28,6,6,6,1,4,5,5
+1061,SAR,65,Female,PhD/Doctorate,Up to 6 years of school,Argentina,1,27,5,6,6,5,5,21,6,6,NA,1,6,2,2
+1063,SAR,54,Female,"College degree, bachelor, master",College degree,Argentina,3,5,4,1,NA,NA,NA,19,NA,6,6,2,NA,5,5
+1064,SAR,35,Female,"Some College, short continuing education or equivalent",PhD/Doctorate,Argentina,1,30,6,6,6,6,6,26,6,6,6,2,2,4,4
+1065,SAR,59,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,1,20,4,4,4,4,4,28,5,5,5,4,5,4,4
+1066,PT,49,Male,Up to 12 years of school,Up to 6 years of school,Portugal,1,25,5,5,5,5,5,26,6,5,4,5,5,1,1
+1068,SME,39,Female,"College degree, bachelor, master",College degree,Mexico,NA,28,6,6,6,5,5,27,4,6,6,6,3,2,2
+1069,PT,25,Female,"College degree, bachelor, master",Up to 9 years of school,Portugal,NA,26,5,6,5,5,5,22,5,5,5,2,3,2,2
+1070,SAR,39,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,25,4,6,5,6,4,28,5,5,5,5,4,4,4
+1071,SAR,39,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,NA,23,4,5,5,5,4,29,5,5,5,5,5,4,4
+1075,PT,18,Female,Up to 12 years of school,College degree,Portugal,NA,24,4,5,5,5,5,28,4,6,5,5,6,2,2
+1076,SAR,39,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,1,18,3,5,4,3,3,32,6,6,6,4,6,4,4
+1077,BG,36,Female,"College degree, bachelor, master",College degree,Bulgaria,NA,25,5,5,5,5,5,23,4,5,5,2,4,3,3
+1078,PT,44,Male,"College degree, bachelor, master",Up to 6 years of school,Portugal,1,22,4,3,3,6,6,27,6,6,5,4,4,2,2
+1080,SAR,40,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,0,19,4,6,4,3,2,23,6,3,6,2,5,1,1
+1084,SAR,46,Male,"Some College, short continuing education or equivalent",College degree,Argentina,2,9,1,1,1,2,4,23,4,5,5,2,5,2,2
+1087,SAR,67,Male,Up to 12 years of school,Up to 9 years of school,Argentina,3,20,2,5,5,5,3,26,6,6,5,2,5,2,2
+1089,SAR,20,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,2,20,5,4,3,5,3,25,6,5,6,2,5,1,1
+1090,LT,71,Female,PhD/Doctorate,Some College or equivalent,Lithuania,0,22,4,4,3,6,5,21,5,3,5,2,4,2,2
+1091,SAR,56,Female,"College degree, bachelor, master",College degree,Argentina,2,10,5,5,NA,NA,NA,31,6,6,6,1,6,6,6
+1092,SK,42,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Slovakia,NA,12,3,2,2,2,3,27,6,5,4,6,4,2,2
+1093,LT,55,Male,"College degree, bachelor, master",College degree,France,NA,15,2,3,2,4,4,27,5,5,5,4,5,3,3
+1094,RO,43,Male,PhD/Doctorate,College degree,Romania,2,25,5,5,5,5,5,25,5,5,5,2,3,5,5
+1095,SK,35,Female,"College degree, bachelor, master",College degree,Slovakia,3,19,4,4,3,5,3,24,5,6,5,2,4,2,2
+1098,LT,68,Male,"College degree, bachelor, master",College degree,Lithuania,NA,27,6,6,5,5,5,23,6,5,5,1,4,2,2
+1099,SAR,43,Female,Up to 12 years of school,Up to 6 years of school,Argentina,1,22,5,5,4,4,4,28,6,6,6,2,6,2,2
+1100,LT,25,Female,"College degree, bachelor, master",College degree,Lithuania,1,24,4,5,4,6,5,24,5,5,3,4,4,3,3
+1101,EN,39,Female,"College degree, bachelor, master",PhD/Doctorate,Slovakia,0,26,6,6,5,5,4,25,6,3,5,5,4,2,2
+1102,SAR,70,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,2,22,4,5,4,4,5,28,6,5,5,5,5,2,2
+1103,LT,22,Female,"College degree, bachelor, master",College degree,Lithuania,NA,26,4,5,5,6,6,20,5,4,5,2,3,1,1
+1104,FR,25,Female,"College degree, bachelor, master",Up to 12 years of school,France,1,27,5,6,6,6,4,27,6,6,6,2,6,1,1
+1105,SAR,66,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,1,25,5,5,5,6,4,27,5,6,6,5,3,2,2
+1107,RO,34,Female,None,Up to 12 years of school,Romania,4,10,2,2,2,2,2,12,2,2,2,2,2,2,2
+1108,RO,38,Other/would rather not say,"Some College, short continuing education or equivalent",NA,Romania,2,25,4,6,5,4,6,30,6,6,6,1,5,6,6
+1111,SAR,63,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,1,24,5,5,5,5,4,30,6,6,6,2,6,4,4
+1113,PT,18,Female,Up to 12 years of school,College degree,Portugal,3,27,3,6,6,6,6,26,6,5,6,4,4,1,1
+1114,SK,71,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Slovakia,0,20,4,4,4,4,4,22,5,5,5,2,4,1,1
+1115,SME,23,Female,Up to 12 years of school,College degree,Panama,NA,22,4,5,5,4,4,14,2,3,4,1,2,2,2
+1117,SAR,45,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,0,23,2,5,5,6,5,29,5,5,6,6,5,2,2
+1118,SME,50,Male,PhD/Doctorate,Up to 9 years of school,Mexico,2,3,1,NA,NA,1,1,28,4,6,6,3,4,5,5
+1119,SAR,53,Male,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,1,28,6,6,4,6,6,27,6,6,6,1,6,2,2
+1120,SK,28,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Slovakia,5,19,3,3,3,5,5,27,5,5,5,4,4,4,4
+1121,SME,27,Female,"College degree, bachelor, master",College degree,Colombia,1,5,1,1,1,1,1,24,6,6,5,2,4,1,1
+1123,LT,60,Male,"College degree, bachelor, master",Up to 9 years of school,Lithuania,2,24,5,4,4,6,5,22,5,5,NA,5,5,2,2
+1124,SAR,47,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,2,24,4,4,4,6,6,32,6,6,6,5,4,5,5
+1125,LT,40,Female,PhD/Doctorate,College degree,Lithuania,NA,15,3,3,3,3,3,21,5,5,5,2,3,1,1
+1126,SAR,58,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,1,30,6,6,6,6,6,34,6,6,6,6,6,4,4
+1127,PT,25,Female,"Some College, short continuing education or equivalent",College degree,Portugal,0,27,5,5,5,6,6,26,6,6,6,2,3,3,3
+1128,PT,44,Male,"College degree, bachelor, master",College degree,Portugal,6,30,6,6,6,6,6,31,5,6,6,6,4,4,4
+1129,SAR,49,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,1,27,4,6,6,6,5,9,1,1,1,2,1,3,3
+1130,RO,33,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Romania,2,27,5,5,5,6,6,27,5,6,6,3,3,4,4
+1131,SAR,41,Female,"College degree, bachelor, master",Up to 9 years of school,Argentina,0,17,1,4,4,4,4,21,6,3,4,2,5,1,1
+1132,PT,44,Female,"College degree, bachelor, master",Up to 9 years of school,Portugal,2,24,5,6,4,5,4,28,6,6,6,3,4,3,3
+1133,DA,51,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Denmark,1,24,4,5,3,6,6,25,5,5,5,2,5,3,3
+1134,SK,59,Female,Up to 9 years of school,Up to 6 years of school,Slovakia,0,23,5,4,4,6,4,23,6,5,4,1,5,2,2
+1136,PT,27,Female,"College degree, bachelor, master",Up to 6 years of school,Germany,0,27,5,6,6,5,5,23,5,6,6,2,2,2,2
+1138,PT,46,Female,"College degree, bachelor, master",Up to 6 years of school,Portugal,0,19,4,4,4,3,4,23,4,5,6,2,5,1,1
+1139,LT,69,Male,Up to 12 years of school,None,Lithuania,3,10,2,2,2,2,2,22,4,4,3,3,4,4,4
+1140,SV,64,Female,Up to 12 years of school,Up to 9 years of school,Sweden,1,20,4,5,4,4,3,28,5,6,6,1,5,5,5
+1141,PT,48,Female,Up to 12 years of school,None,Portugal,2,24,5,5,5,5,4,27,5,5,5,2,5,5,5
+1142,SAR,51,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,1,26,5,6,5,5,5,30,6,6,6,2,5,5,5
+1143,PT,45,Female,"College degree, bachelor, master",Up to 9 years of school,Portugal,3,11,2,2,2,2,3,21,5,4,5,3,3,1,1
+1144,IT,38,Female,PhD/Doctorate,College degree,Italy,2,21,1,5,5,5,5,19,5,5,2,5,1,1,1
+1146,FR,18,Female,"Some College, short continuing education or equivalent",College degree,France,2,19,1,5,5,4,4,24,4,5,6,1,4,4,4
+1147,LT,55,Female,"College degree, bachelor, master",College degree,Lithuania,NA,27,6,6,5,5,5,29,6,6,5,3,4,5,5
+1148,PT,54,Female,Up to 12 years of school,Up to 6 years of school,Portugal,NA,25,5,5,5,5,5,24,5,5,6,2,4,2,2
+1149,LT,60,Male,"College degree, bachelor, master",Up to 12 years of school,Lithuania,1,25,5,5,5,5,5,24,5,5,5,2,5,2,2
+1151,SAR,50,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,3,19,4,4,3,4,4,22,4,4,5,4,4,1,1
+1152,LT,22,Female,"Some College, short continuing education or equivalent",College degree,Lithuania,NA,23,4,5,4,6,4,25,6,4,4,5,5,1,1
+1153,PT,39,Female,"College degree, bachelor, master",Up to 6 years of school,Portugal,NA,30,6,6,6,6,6,32,6,6,6,5,5,4,4
+1154,SME,64,Female,"College degree, bachelor, master",Up to 12 years of school,Panama,1,19,5,5,4,1,4,32,5,6,6,6,5,4,4
+1155,LT,47,Female,"College degree, bachelor, master",College degree,Lithuania,NA,20,4,4,4,4,4,25,5,6,6,2,5,1,1
+1156,SK,46,Female,"College degree, bachelor, master",Some College or equivalent,Slovakia,0,25,5,5,5,5,5,24,6,6,6,2,3,1,1
+1158,DE,45,Female,"College degree, bachelor, master",Up to 9 years of school,Switzerland,NA,16,2,2,3,4,5,20,5,4,4,2,4,1,1
+1159,SK,20,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Slovakia,NA,22,4,4,4,5,5,26,5,5,5,4,5,2,2
+1160,SK,42,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,1,26,4,5,5,6,6,23,1,5,5,3,5,4,4
+1161,SAR,56,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,0,25,1,6,6,6,6,20,3,5,5,1,5,1,1
+1164,SK,42,Female,PhD/Doctorate,College degree,Slovakia,2,25,5,5,5,5,5,24,2,6,6,5,3,2,2
+1165,SAR,40,Female,"College degree, bachelor, master",None,Argentina,1,4,1,1,1,1,NA,26,4,5,5,4,5,3,3
+1166,LT,52,Male,"Some College, short continuing education or equivalent",Some College or equivalent,Lithuania,0,22,4,4,4,5,5,24,4,5,5,2,3,5,5
+1167,SK,36,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,2,14,1,3,3,3,4,24,6,5,5,3,4,1,1
+1168,FR,33,Female,"College degree, bachelor, master",Up to 12 years of school,France,1,27,3,6,6,6,6,28,6,6,6,3,5,2,2
+1170,PT,19,Female,"Some College, short continuing education or equivalent",College degree,Portugal,NA,24,4,5,5,5,5,28,5,6,6,5,5,1,1
+1171,SK,28,Female,"College degree, bachelor, master",Some College or equivalent,Slovakia,NA,21,4,4,4,4,5,20,5,4,4,3,2,2,2
+1172,PT,61,Female,"College degree, bachelor, master",Up to 6 years of school,Portugal,2,18,6,NA,6,NA,6,22,5,5,5,2,3,2,2
+1173,PT,47,Female,"College degree, bachelor, master",None,Portugal,1,23,5,4,4,4,6,29,6,5,6,5,5,2,2
+1174,SK,37,Male,PhD/Doctorate,Up to 12 years of school,Slovakia,1,9,1,2,2,2,2,23,5,5,3,2,2,6,6
+1175,PT,50,Female,"College degree, bachelor, master",Up to 12 years of school,Portugal,2,23,5,5,4,4,5,26,6,6,6,1,5,2,2
+1177,PT,64,Female,Up to 12 years of school,None,Portugal,NA,23,5,4,5,5,4,25,5,5,5,4,4,2,2
+1178,SR,36,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Serbia,3,18,3,4,3,5,3,23,5,5,4,2,4,3,3
+1179,RO,22,Female,"College degree, bachelor, master",Up to 9 years of school,Romania,1,30,6,6,6,6,6,20,4,6,6,1,1,2,2
+1180,PT,50,Male,Up to 12 years of school,Up to 6 years of school,Portugal,NA,25,5,5,5,5,5,26,5,5,5,5,5,1,1
+1181,LT,63,Female,"College degree, bachelor, master",Some College or equivalent,Lithuania,0,23,5,5,5,4,4,23,4,5,5,2,3,4,4
+1182,SK,60,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Slovakia,2,22,4,4,4,5,5,27,6,6,5,2,4,4,4
+1183,SK,35,Female,PhD/Doctorate,Up to 12 years of school,Slovakia,1,24,5,5,5,5,4,29,6,6,6,3,4,4,4
+1184,PT,20,Female,"College degree, bachelor, master",Up to 6 years of school,Portugal,2,30,6,6,6,6,6,28,5,6,5,5,4,3,3
+1186,PT,59,Female,"College degree, bachelor, master",Up to 6 years of school,Portugal,0,25,5,5,5,5,5,28,4,6,6,5,5,2,2
+1187,PT,18,Female,"Some College, short continuing education or equivalent",College degree,Portugal,0,30,6,6,6,6,6,23,6,6,6,1,3,1,1
+1188,SK,24,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,3,20,2,4,4,5,5,24,4,5,5,3,4,3,3
+1189,PT,36,Female,"College degree, bachelor, master",Up to 6 years of school,Portugal,NA,30,6,6,6,6,6,33,6,6,6,5,5,5,5
+1190,SAR,66,Male,PhD/Doctorate,Up to 12 years of school,Argentina,2,19,4,5,5,2,3,25,5,6,5,1,6,2,2
+1194,PT,51,Female,"College degree, bachelor, master",College degree,Portugal,1,22,6,4,4,4,4,31,5,6,6,5,5,4,4
+1195,PT,42,Female,"College degree, bachelor, master",Up to 6 years of school,Portugal,1,26,5,6,5,5,5,26,5,5,5,4,4,3,3
+1196,PT,50,Female,"College degree, bachelor, master",Up to 6 years of school,Portugal,2,13,2,2,2,2,5,25,6,6,6,1,5,1,1
+1197,EN,74,Male,PhD/Doctorate,Some College or equivalent,United Kingdom,1,27,6,5,5,6,5,22,5,6,6,1,3,1,1
+1199,PT,43,Female,"College degree, bachelor, master",Up to 12 years of school,Portugal,1,30,6,6,6,6,6,30,6,6,6,5,4,3,3
+1200,SK,35,Female,"College degree, bachelor, master",College degree,Slovakia,NA,3,3,NA,NA,NA,NA,23,5,5,5,2,2,4,4
+1201,PT,54,Male,"College degree, bachelor, master",Up to 6 years of school,Portugal,NA,25,1,6,6,6,6,28,6,6,6,2,6,2,2
+1202,PT,29,Male,"College degree, bachelor, master",Up to 6 years of school,Portugal,NA,25,5,5,5,5,5,29,5,6,6,5,5,2,2
+1203,PT,34,Male,"Some College, short continuing education or equivalent",Up to 6 years of school,Portugal,NA,22,4,4,4,5,5,23,5,5,5,2,5,1,1
+1205,LT,51,Female,"College degree, bachelor, master",College degree,Lithuania,NA,29,6,6,5,6,6,24,5,5,5,2,5,2,2
+1206,LT,50,Male,"College degree, bachelor, master",College degree,Lithuania,0,15,2,2,2,4,5,29,6,6,6,2,5,4,4
+1207,PT,56,Female,Up to 12 years of school,Up to 6 years of school,Portugal,NA,6,6,NA,NA,NA,NA,27,5,5,5,4,4,4,4
+1208,SK,41,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,1,27,5,5,5,6,6,23,5,5,5,3,2,3,3
+1209,FI,22,Female,"College degree, bachelor, master",Some College or equivalent,Finland,1,27,5,6,5,6,5,21,5,3,2,4,4,3,3
+1210,PT,30,Female,"College degree, bachelor, master",Up to 9 years of school,Portugal,NA,27,5,6,5,5,6,28,5,6,5,6,4,2,2
+1211,SK,50,Female,"College degree, bachelor, master",PhD/Doctorate,Slovakia,1,9,2,2,2,2,1,27,4,6,6,2,6,3,3
+1212,SV,38,Male,"College degree, bachelor, master",Up to 12 years of school,Sweden,0,23,6,4,3,4,6,21,4,4,5,1,4,3,3
+1213,SK,72,Female,PhD/Doctorate,Up to 12 years of school,Slovakia,0,25,5,5,5,5,5,31,6,6,6,6,4,3,3
+1214,SV,38,Female,"College degree, bachelor, master",College degree,Sweden,NA,21,2,5,5,3,6,24,6,5,5,3,4,1,1
+1215,PT,54,Male,"College degree, bachelor, master",Up to 6 years of school,Portugal,2,19,4,4,4,3,4,22,6,5,3,2,3,3,3
+1216,LT,66,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Lithuania,1,19,5,5,NA,5,4,26,5,5,5,3,4,4,4
+1217,LT,54,Female,"College degree, bachelor, master",Some College or equivalent,NA,1,24,4,4,5,5,6,16,2,5,5,1,2,1,1
+1218,SAR,37,Female,PhD/Doctorate,Up to 12 years of school,Argentina,1,20,2,2,5,6,5,28,6,6,6,2,5,3,3
+1219,BS,57,Female,"College degree, bachelor, master",Up to 12 years of school,Bosnia and Herzegovina,NA,16,4,3,3,3,3,19,5,5,3,1,3,2,2
+1220,SV,37,Female,"College degree, bachelor, master",College degree,Sweden,NA,22,4,4,2,6,6,28,6,6,5,1,5,5,5
+1221,PT,24,Female,"College degree, bachelor, master",Up to 9 years of school,Portugal,NA,23,NA,6,6,5,6,22,6,5,NA,5,4,2,2
+1222,RO,40,Female,Up to 12 years of school,Up to 12 years of school,Romania,NA,26,5,5,5,5,6,26,6,5,6,2,4,3,3
+1223,SK,49,Female,Up to 12 years of school,Up to 12 years of school,Slovakia,6,25,5,5,5,5,5,30,6,6,6,4,4,4,4
+1225,PT,35,Male,Up to 9 years of school,Up to 6 years of school,Switzerland,NA,14,2,4,2,2,4,24,4,5,5,4,5,1,1
+1226,SAR,56,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,0,26,5,5,5,6,5,28,6,6,6,4,1,5,5
+1228,SME,52,Female,"College degree, bachelor, master",Up to 6 years of school,Panama,1,25,5,6,5,4,5,26,5,5,5,3,4,4,4
+1229,SME,37,Female,PhD/Doctorate,Some College or equivalent,Panama,0,20,3,5,4,4,4,22,4,6,6,1,2,3,3
+1230,LT,60,Female,Up to 12 years of school,NA,Lithuania,0,15,1,2,2,5,5,29,6,5,6,2,5,5,5
+1232,SAR,34,Female,PhD/Doctorate,Up to 12 years of school,Argentina,0,24,6,6,4,5,3,31,6,6,4,6,4,5,5
+1233,SME,55,Female,PhD/Doctorate,None,Panama,NA,20,NA,5,5,5,5,25,5,5,6,2,2,5,5
+1234,SME,18,Female,"College degree, bachelor, master",None,Panama,NA,18,2,4,4,4,4,22,3,4,4,3,4,4,4
+1235,SME,39,Male,PhD/Doctorate,Some College or equivalent,Panama,1,27,6,6,5,5,5,29,5,6,6,4,4,4,4
+1236,PT,44,Male,"College degree, bachelor, master",Up to 6 years of school,Switzerland,NA,25,5,5,5,5,5,27,5,5,5,5,5,2,2
+1237,LT,66,Female,"College degree, bachelor, master",Up to 9 years of school,Lithuania,0,19,4,4,4,4,3,22,4,5,5,3,4,1,1
+1238,SK,57,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Slovakia,1,19,3,3,3,5,5,23,4,5,5,2,4,3,3
+1239,SAR,37,Female,"College degree, bachelor, master",College degree,Argentina,1,25,5,5,5,5,5,23,5,1,5,4,4,4,4
+1240,SAR,35,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,NA,27,5,6,5,6,5,21,5,5,5,2,2,2,2
+1241,SAR,40,Other/would rather not say,"College degree, bachelor, master",Up to 12 years of school,Argentina,1,17,5,3,4,3,2,26,6,6,6,2,3,3,3
+1242,SAR,71,Male,"Some College, short continuing education or equivalent",College degree,Argentina,1,24,5,5,5,5,4,28,5,6,6,2,5,4,4
+1243,SAR,42,Female,Up to 12 years of school,Up to 9 years of school,Argentina,5,25,5,5,5,5,5,27,6,6,6,1,6,2,2
+1244,SAR,41,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,1,22,3,5,4,5,5,25,5,6,5,3,4,2,2
+1245,SAR,61,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,3,21,5,4,4,4,4,27,5,6,6,5,2,3,3
+1246,SAR,54,Female,Up to 12 years of school,Up to 6 years of school,Argentina,1,25,5,5,5,5,5,31,6,6,6,5,5,3,3
+1249,SAR,61,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,0,16,4,4,3,2,3,29,5,6,6,5,5,2,2
+1250,SAR,36,Female,PhD/Doctorate,College degree,Argentina,1,26,5,6,5,6,4,28,6,6,6,4,4,2,2
+1252,SAR,46,Male,"College degree, bachelor, master",College degree,Argentina,1,16,2,2,3,3,6,29,5,5,5,4,6,4,4
+1254,SAR,33,Female,Up to 12 years of school,Up to 9 years of school,Argentina,1,28,5,6,6,6,5,31,6,6,6,3,6,4,4
+1255,SAR,48,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,0,7,2,2,1,1,1,24,6,5,6,1,5,1,1
+1257,LT,67,Female,"College degree, bachelor, master",Up to 6 years of school,Lithuania,NA,21,4,4,4,5,4,26,6,6,6,2,4,2,2
+1258,LT,47,Female,Up to 12 years of school,College degree,United Kingdom,1,18,4,4,3,4,3,26,6,6,6,1,1,6,6
+1259,SME,50,Female,PhD/Doctorate,None,Panama,1,29,5,6,6,6,6,29,6,6,6,4,5,2,2
+1260,SAR,64,Female,"College degree, bachelor, master",Up to 9 years of school,Argentina,2,26,5,5,5,5,6,35,6,6,6,6,6,5,5
+1261,SAR,62,Male,"Some College, short continuing education or equivalent",College degree,Argentina,2,24,4,5,5,5,5,26,5,5,5,2,4,5,5
+1262,SAR,64,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,1,28,5,6,5,6,6,26,6,6,6,1,5,2,2
+1263,SAR,60,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,27,4,6,5,6,6,29,6,6,6,2,6,3,3
+1264,SAR,36,Female,Up to 12 years of school,Up to 6 years of school,Argentina,1,26,5,6,5,6,4,29,5,6,5,6,5,2,2
+1265,SME,52,Female,"College degree, bachelor, master",Up to 6 years of school,Panama,2,20,5,5,5,NA,5,29,5,5,5,2,6,6,6
+1266,SAR,51,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,1,25,4,6,5,5,5,27,6,6,6,1,6,2,2
+1267,SME,46,Female,PhD/Doctorate,PhD/Doctorate,Panama,5,29,6,6,6,5,6,31,6,6,6,4,5,4,4
+1268,SAR,44,Male,"Some College, short continuing education or equivalent",None,Argentina,1,25,5,5,5,5,5,21,1,5,5,2,6,2,2
+1269,LT,21,Female,"College degree, bachelor, master",College degree,Lithuania,2,26,5,6,5,6,4,28,6,4,5,4,5,4,4
+1270,SAR,55,Female,"Some College, short continuing education or equivalent",College degree,Argentina,1,13,1,3,3,3,3,28,5,5,6,2,5,5,5
+1271,SK,50,Female,"College degree, bachelor, master",College degree,Slovakia,NA,29,5,6,6,6,6,26,5,6,6,2,4,3,3
+1272,FR,25,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,France,0,26,4,6,4,6,6,23,3,6,6,1,5,2,2
+1273,SME,54,Female,"College degree, bachelor, master",Up to 12 years of school,Panama,NA,27,4,6,5,6,6,24,4,6,6,2,4,2,2
+1274,SAR,40,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,0,26,5,5,5,6,5,32,6,6,5,5,5,5,5
+1276,LT,30,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Lithuania,0,20,1,5,4,4,6,24,6,4,5,4,4,1,1
+1277,SAR,47,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,NA,24,5,5,5,5,4,27,5,5,5,5,2,5,5
+1278,SAR,42,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,29,5,6,6,6,6,26,6,6,6,1,5,2,2
+1279,SME,26,Female,"College degree, bachelor, master",College degree,Mexico,2,26,5,6,5,5,5,25,4,6,5,2,3,5,5
+1280,RO,34,Female,Up to 12 years of school,Up to 12 years of school,Romania,0,28,4,6,6,6,6,26,5,5,4,2,4,6,6
+1281,LT,63,Male,Up to 12 years of school,Some College or equivalent,Lithuania,2,27,6,5,6,5,5,26,6,6,6,2,4,2,2
+1282,SME,66,Female,PhD/Doctorate,Up to 12 years of school,Panama,NA,16,6,NA,5,NA,5,11,4,NA,NA,4,3,NA,NA
+1283,SAR,43,Female,"Some College, short continuing education or equivalent",None,Argentina,6,15,4,3,3,3,2,22,5,3,5,4,2,3,3
+1284,SAR,66,Female,"College degree, bachelor, master",Up to 6 years of school,Argentina,0,30,6,6,6,6,6,21,1,5,4,4,5,2,2
+1285,SAR,46,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,17,4,4,3,5,1,18,5,5,1,3,2,2,2
+1286,LT,57,Female,"College degree, bachelor, master",Up to 12 years of school,Lithuania,1,25,5,5,5,5,5,29,6,6,6,4,4,3,3
+1287,SAR,70,Female,"College degree, bachelor, master",None,Argentina,1,26,4,6,6,5,5,25,6,6,4,3,5,1,1
+1288,SAR,63,Female,PhD/Doctorate,Some College or equivalent,Argentina,1,18,4,4,3,4,3,30,6,5,6,5,4,4,4
+1289,SAR,69,Male,"College degree, bachelor, master",Up to 12 years of school,Argentina,1,30,6,6,6,6,6,25,6,6,6,1,5,1,1
+1290,LT,33,Female,PhD/Doctorate,College degree,Lithuania,NA,21,4,5,5,6,1,28,5,6,6,2,5,4,4
+1291,SAR,38,Female,Up to 12 years of school,Up to 6 years of school,Argentina,1,24,4,5,5,5,5,21,6,5,5,2,3,NA,NA
+1292,SME,35,Female,PhD/Doctorate,College degree,Panama,2,22,4,6,5,3,4,25,5,5,5,3,5,2,2
+1293,SME,50,Female,"College degree, bachelor, master",Up to 9 years of school,Mexico,0,29,6,6,5,6,6,34,6,6,6,6,4,6,6
+1294,SK,46,Female,Up to 12 years of school,Up to 9 years of school,Slovakia,1,22,4,4,4,5,5,23,4,4,4,4,4,3,3
+1297,FR,26,Male,"College degree, bachelor, master",Some College or equivalent,France,2,21,2,4,4,5,6,27,6,5,6,4,5,1,1
+1298,BS,44,Male,Up to 12 years of school,Up to 6 years of school,Bosnia and Herzegovina,NA,16,4,3,3,3,3,22,4,5,3,2,4,4,4
+1299,SK,40,Female,Up to 12 years of school,Up to 12 years of school,Slovakia,1,23,4,5,5,4,5,23,5,4,5,2,2,5,5
+1301,BS,40,Female,Up to 12 years of school,Up to 12 years of school,Bosnia and Herzegovina,3,7,1,3,1,1,1,22,4,4,5,2,5,2,2
+1302,SK,41,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,2,15,3,3,3,3,3,27,4,6,6,3,4,4,4
+1303,SAR,69,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,0,23,4,4,5,5,5,24,6,6,5,2,4,1,1
+1304,SME,44,Male,PhD/Doctorate,College degree,Panama,1,20,5,6,5,3,1,22,5,5,5,4,1,2,2
+1306,SME,26,NA,"College degree, bachelor, master",College degree,Panama,NA,26,6,5,5,5,5,29,5,6,5,5,3,5,5
+1307,SAR,80,Female,"College degree, bachelor, master",Up to 9 years of school,Argentina,1,12,4,4,4,NA,NA,28,6,5,5,4,5,3,3
+1309,SME,66,Female,"College degree, bachelor, master",Up to 12 years of school,Panama,3,30,6,6,6,6,6,28,6,6,6,6,3,1,1
+1310,LT,78,Female,"College degree, bachelor, master",None,Lithuania,NA,20,5,NA,5,5,5,27,5,6,6,4,3,3,3
+1311,SAR,59,Male,PhD/Doctorate,PhD/Doctorate,Argentina,4,25,4,5,5,6,5,28,6,6,5,4,4,3,3
+1312,SAR,32,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,1,28,6,6,6,6,4,24,6,6,5,3,3,1,1
+1313,SK,70,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Slovakia,1,18,2,3,4,4,5,25,6,5,5,2,4,3,3
+1314,SME,67,Female,"College degree, bachelor, master",College degree,Panama,3,20,NA,5,5,5,5,23,4,6,6,1,5,1,1
+1315,LT,29,Male,"College degree, bachelor, master",Up to 12 years of school,Lithuania,NA,25,5,5,5,5,5,30,5,6,6,3,4,6,6
+1316,SK,34,Female,"College degree, bachelor, master",Some College or equivalent,Slovakia,NA,19,2,3,2,6,6,27,5,6,5,2,5,4,4
+1318,SAR,37,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,0,5,NA,5,NA,NA,NA,22,4,6,5,5,1,1,1
+1319,SAR,38,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,1,10,2,2,2,2,2,25,5,4,5,2,5,4,4
+1320,SME,56,Female,"College degree, bachelor, master",Up to 12 years of school,Panama,0,30,6,6,6,6,6,28,5,6,6,1,4,6,6
+1321,LT,57,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Lithuania,NA,27,5,5,5,6,6,26,5,6,6,1,2,6,6
+1322,SME,43,Male,"College degree, bachelor, master",College degree,Panama,3,28,5,6,6,6,5,33,6,6,6,4,5,6,6
+1323,SAR,62,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,1,14,6,1,1,5,1,33,6,6,5,5,6,5,5
+1324,FI,41,Male,"Some College, short continuing education or equivalent",Up to 6 years of school,Finland,0,27,3,6,6,6,6,25,6,5,4,4,5,1,1
+1326,SME,39,Female,PhD/Doctorate,Up to 12 years of school,Panama,2,26,5,6,5,5,5,27,6,6,6,2,4,3,3
+1327,SME,53,Male,PhD/Doctorate,Up to 6 years of school,Panama,3,3,2,NA,NA,1,NA,19,NA,4,4,3,3,5,5
+1328,SME,36,Female,"College degree, bachelor, master",Some College or equivalent,Panama,2,28,6,6,6,5,5,31,6,6,6,2,6,5,5
+1329,LT,63,Female,"College degree, bachelor, master",Up to 9 years of school,Lithuania,NA,20,4,4,4,4,4,23,4,4,4,3,4,4,4
+1330,SAR,56,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,1,30,6,6,6,6,6,27,6,6,6,1,6,2,2
+1331,SK,45,Female,"College degree, bachelor, master",Some College or equivalent,Slovakia,NA,21,4,4,4,4,5,24,5,5,5,2,5,2,2
+1332,SME,43,Female,"Some College, short continuing education or equivalent",NA,Panama,NA,27,5,5,5,6,6,33,6,6,6,5,6,4,4
+1334,SAR,46,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,18,4,1,1,6,6,28,6,6,6,2,6,2,2
+1336,RU,50,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Lithuania,NA,24,5,5,5,5,4,26,5,6,5,2,4,4,4
+1337,LT,57,Female,PhD/Doctorate,Up to 12 years of school,Lithuania,0,20,4,4,4,4,4,28,6,6,5,4,5,2,2
+1338,LT,48,Male,"College degree, bachelor, master",College degree,Lithuania,0,21,3,4,4,5,5,24,5,4,5,4,4,2,2
+1339,SK,42,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,1,25,5,5,5,5,5,29,6,6,6,1,6,4,4
+1340,SME,40,Female,PhD/Doctorate,College degree,Panama,4,20,5,5,4,4,2,26,2,6,6,4,4,4,4
+1341,SR,57,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Serbia,NA,22,3,4,4,6,5,29,6,6,6,5,4,2,2
+1342,SAR,78,Female,None,None,Argentina,1,16,3,4,3,3,3,29,6,6,6,5,4,2,2
+1343,LT,42,Male,"Some College, short continuing education or equivalent",College degree,Lithuania,NA,6,1,1,1,2,1,22,6,6,3,1,5,1,1
+1344,SAR,59,Female,"College degree, bachelor, master",College degree,Argentina,1,26,4,6,6,5,5,18,6,1,1,2,3,5,5
+1345,SV,60,Female,PhD/Doctorate,Up to 6 years of school,Sweden,1,23,2,6,5,5,5,25,6,6,6,1,4,2,2
+1346,SAR,51,Female,"College degree, bachelor, master",College degree,Argentina,1,28,6,6,6,5,5,17,NA,6,6,1,2,2,2
+1347,SAR,30,Female,"College degree, bachelor, master",College degree,Argentina,1,30,6,6,6,6,6,29,6,6,6,NA,5,6,6
+1349,SAR,43,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,0,27,5,5,5,6,6,12,6,1,1,1,2,1,1
+1350,NL,61,Female,"College degree, bachelor, master",Up to 12 years of school,Netherlands,1,20,2,4,2,6,6,24,6,6,6,1,3,2,2
+1351,SAR,29,Female,Up to 12 years of school,None,Argentina,1,25,5,5,5,5,5,29,5,6,5,6,5,2,2
+1352,SAR,52,Female,PhD/Doctorate,Some College or equivalent,Argentina,0,17,4,4,4,1,4,25,5,6,6,1,5,2,2
+1354,SAR,56,Female,None,Up to 12 years of school,Argentina,3,29,5,6,6,6,6,28,6,6,6,3,6,1,1
+1356,SK,38,Female,"College degree, bachelor, master",College degree,Slovakia,1,25,5,5,5,5,5,23,4,5,5,2,4,3,3
+1357,SK,65,Female,Up to 12 years of school,Up to 9 years of school,Slovakia,0,19,6,NA,4,4,5,32,6,6,6,5,5,4,4
+1359,SAR,60,Male,NA,NA,Argentina,1,29,6,6,6,6,5,30,5,6,5,5,5,4,4
+1360,SME,55,Female,Up to 9 years of school,Some College or equivalent,Colombia,7,3,3,NA,NA,NA,NA,11,NA,NA,5,6,NA,NA,NA
+1362,SAR,57,Female,"Some College, short continuing education or equivalent",College degree,Argentina,0,27,6,5,5,6,5,27,6,6,6,2,5,2,2
+1364,LT,54,Female,NA,College degree,Lithuania,NA,28,5,6,5,6,6,30,5,6,6,2,6,5,5
+1365,SME,50,Female,"College degree, bachelor, master",Up to 6 years of school,Mexico,2,30,6,6,6,6,6,24,4,6,6,1,3,4,4
+1366,EN,31,Female,"College degree, bachelor, master",Up to 6 years of school,United States,0,30,6,6,6,6,6,25,6,6,6,2,3,2,2
+1367,LT,56,Female,"College degree, bachelor, master",College degree,Lithuania,0,24,4,5,5,5,5,25,6,5,6,1,5,2,2
+1368,EN,88,Male,"College degree, bachelor, master",Some College or equivalent,United Kingdom,0,21,5,4,4,4,4,27,5,5,5,5,4,3,3
+1369,SK,58,Female,PhD/Doctorate,NA,Slovakia,0,9,2,2,2,1,2,31,6,6,6,6,4,3,3
+1370,NL,54,Female,"College degree, bachelor, master",Some College or equivalent,Netherlands,NA,10,2,2,2,2,2,16,5,2,3,2,3,1,1
+1371,EN,59,Female,"College degree, bachelor, master",Some College or equivalent,United Kingdom,2,21,3,4,4,5,5,32,6,6,6,6,6,2,2
+1372,SAR,38,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,4,19,4,6,4,4,1,26,5,5,5,2,4,5,5
+1373,LT,50,Female,"College degree, bachelor, master",College degree,Lithuania,0,16,6,NA,NA,5,5,26,5,5,6,2,3,5,5
+1374,LT,28,Male,"College degree, bachelor, master",College degree,Lithuania,NA,24,4,5,4,5,6,29,6,6,6,3,4,4,4
+1375,SK,68,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,0,20,4,4,4,4,4,23,5,5,5,3,4,1,1
+1376,LT,54,Female,"College degree, bachelor, master",Up to 9 years of school,Lithuania,2,25,5,5,5,5,5,26,5,6,6,4,4,1,1
+1377,LT,64,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Germany,NA,5,1,1,1,1,1,28,6,6,4,6,5,1,1
+1378,LT,65,Male,"College degree, bachelor, master",Up to 12 years of school,Lithuania,NA,18,4,4,3,4,3,24,5,5,5,2,5,2,2
+1379,LT,60,Female,"College degree, bachelor, master",Up to 9 years of school,Lithuania,NA,22,4,4,4,5,5,24,5,5,4,3,4,3,3
+1380,LT,35,Male,"College degree, bachelor, master",College degree,Lithuania,NA,13,2,2,2,5,2,24,6,5,5,3,4,1,1
+1381,LT,26,Female,"College degree, bachelor, master",College degree,Lithuania,NA,16,1,4,3,3,5,22,5,3,4,4,2,4,4
+1382,SAR,38,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,26,5,6,4,6,5,23,3,6,6,3,3,2,2
+1383,SK,24,Female,"College degree, bachelor, master",College degree,Slovakia,1,18,2,2,3,5,6,25,5,6,6,2,4,2,2
+1384,FR,61,Female,"College degree, bachelor, master",Up to 6 years of school,Belgium,1,25,5,5,5,5,5,25,5,5,5,4,4,2,2
+1386,LT,29,Female,PhD/Doctorate,Some College or equivalent,Lithuania,NA,25,5,5,5,5,5,30,6,6,5,5,3,5,5
+1389,LT,69,Female,"College degree, bachelor, master",College degree,Lithuania,1,25,5,5,5,5,5,27,6,6,6,1,6,2,2
+1390,LT,48,Male,"College degree, bachelor, master",Some College or equivalent,Lithuania,NA,23,5,5,4,5,4,26,6,6,6,2,5,1,1
+1391,LT,43,Male,"College degree, bachelor, master",College degree,Lithuania,NA,11,2,3,2,2,2,29,6,6,6,1,5,5,5
+1392,LT,60,Female,NA,Some College or equivalent,Lithuania,NA,21,4,4,3,5,5,24,5,4,6,2,5,2,2
+1393,SK,26,Female,"College degree, bachelor, master",College degree,Slovakia,NA,19,2,3,3,6,5,25,5,6,6,1,4,3,3
+1394,LT,24,Male,"College degree, bachelor, master",College degree,Lithuania,3,23,3,4,4,6,6,24,6,5,4,4,3,2,2
+1396,LT,56,Male,"College degree, bachelor, master",College degree,Lithuania,NA,24,5,5,5,4,5,22,2,4,5,5,5,1,1
+1397,LT,47,Male,"College degree, bachelor, master",Some College or equivalent,Lithuania,2,15,2,3,3,3,4,18,1,5,5,2,4,1,1
+1398,LT,45,Male,"College degree, bachelor, master",Up to 6 years of school,Lithuania,NA,19,6,1,4,4,4,33,6,6,6,5,5,5,5
+1399,SK,63,Female,"College degree, bachelor, master",Some College or equivalent,Slovakia,1,15,2,3,3,4,3,11,5,6,NA,NA,NA,NA,NA
+1400,LT,24,Female,"Some College, short continuing education or equivalent",NA,Lithuania,NA,25,4,5,6,5,5,31,6,6,6,3,6,4,4
+1401,LT,56,Female,"College degree, bachelor, master",College degree,Lithuania,1,24,4,5,5,5,5,24,6,5,6,2,4,1,1
+1402,LT,83,Female,"College degree, bachelor, master",NA,Lithuania,1,30,6,6,6,6,6,18,4,4,3,3,3,1,1
+1403,LT,60,Female,"College degree, bachelor, master",Up to 9 years of school,Lithuania,NA,16,2,3,3,4,4,19,5,4,3,2,4,1,1
+1404,LT,58,Female,"College degree, bachelor, master",College degree,United Kingdom,1,13,4,NA,4,NA,5,28,5,5,5,5,4,4,4
+1405,LT,49,Female,"College degree, bachelor, master",College degree,Lithuania,NA,27,5,5,5,6,6,27,6,5,5,5,2,4,4
+1406,LT,57,Male,"College degree, bachelor, master",College degree,Lithuania,NA,27,5,6,5,6,5,28,6,6,6,3,3,4,4
+1407,LT,32,Female,"College degree, bachelor, master",Up to 12 years of school,Germany,NA,25,5,5,5,5,5,28,5,6,5,2,5,5,5
+1408,LT,53,Female,"College degree, bachelor, master",College degree,Norway,NA,25,5,6,5,4,5,29,5,6,6,5,3,4,4
+1409,LT,38,Male,"Some College, short continuing education or equivalent",Up to 12 years of school,Lithuania,NA,17,2,3,3,4,5,25,5,6,5,5,3,1,1
+1410,LT,62,Female,"College degree, bachelor, master",Up to 12 years of school,Lithuania,0,22,4,4,4,5,5,24,5,5,5,2,5,2,2
+1411,LT,58,Female,"College degree, bachelor, master",College degree,Lithuania,NA,25,4,4,5,6,6,22,6,5,5,1,4,1,1
+1412,LT,63,Male,"College degree, bachelor, master",Up to 6 years of school,Lithuania,NA,12,2,2,2,2,4,22,5,4,5,2,5,1,1
+1413,LT,59,Male,"College degree, bachelor, master",Up to 6 years of school,Lithuania,NA,23,3,5,5,5,5,26,5,5,4,5,6,1,1
+1414,LT,25,Male,"College degree, bachelor, master",Some College or equivalent,Lithuania,NA,18,3,5,3,4,3,24,5,5,5,6,1,2,2
+1415,LT,49,Male,"College degree, bachelor, master",College degree,Lithuania,1,24,4,5,5,5,5,26,5,6,6,2,3,4,4
+1416,LT,60,Female,"College degree, bachelor, master",Some College or equivalent,Lithuania,NA,25,5,5,5,5,5,23,5,5,5,3,3,2,2
+1417,LT,29,Male,"College degree, bachelor, master",NA,Lithuania,NA,20,4,4,4,4,4,25,5,5,5,1,5,4,4
+1418,LT,70,Male,"College degree, bachelor, master",NA,Lithuania,NA,22,3,6,4,5,4,27,5,6,6,3,5,2,2
+1419,LT,30,Male,"College degree, bachelor, master",College degree,Lithuania,NA,13,2,2,2,2,5,27,5,5,5,5,5,2,2
+1420,EN,44,Female,PhD/Doctorate,Up to 12 years of school,United Kingdom,1,25,5,5,5,5,5,27,6,6,6,3,3,3,3
+1421,LT,65,Female,"College degree, bachelor, master",College degree,Lithuania,1,22,4,4,4,5,5,25,5,6,6,2,5,1,1
+1422,LT,61,Female,"College degree, bachelor, master",Up to 6 years of school,Lithuania,NA,13,2,2,2,2,5,24,5,5,5,2,4,3,3
+1423,LT,61,Female,"College degree, bachelor, master",Up to 6 years of school,Lithuania,0,25,5,5,5,5,5,28,6,6,6,4,4,2,2
+1424,LT,24,Male,"College degree, bachelor, master",College degree,Lithuania,NA,25,5,5,5,5,5,26,5,5,5,3,4,4,4
+1425,LT,67,Female,"College degree, bachelor, master",Up to 12 years of school,Lithuania,0,26,5,5,5,6,5,30,4,6,6,5,6,3,3
+1426,LT,47,Male,"College degree, bachelor, master",College degree,Lithuania,NA,18,3,4,3,4,4,27,6,5,6,2,4,4,4
+1427,SK,60,Female,Up to 12 years of school,Up to 9 years of school,Slovakia,10,22,4,4,4,5,5,25,5,5,5,2,4,4,4
+1428,LT,31,Female,"College degree, bachelor, master",College degree,Lithuania,NA,22,4,6,5,1,6,24,6,6,6,1,1,4,4
+1430,SK,50,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,0,12,3,NA,4,NA,5,25,4,4,6,4,3,4,4
+1431,LT,35,Male,"College degree, bachelor, master",College degree,Lithuania,NA,23,4,5,4,5,5,25,5,5,5,2,4,4,4
+1432,SAR,50,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,2,25,5,5,5,5,5,26,3,5,5,5,4,4,4
+1433,SAR,27,Female,"College degree, bachelor, master",Up to 12 years of school,Argentina,3,20,1,6,5,5,3,18,6,4,4,2,1,1,1
+1435,EN,68,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,0,26,5,5,5,5,6,22,5,5,2,NA,5,5,5
+1436,SAR,47,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,2,30,6,6,6,6,6,24,5,5,5,3,4,2,2
+1437,SAR,61,Male,Up to 12 years of school,Up to 6 years of school,Argentina,1,19,5,5,5,2,2,25,5,5,5,2,5,3,3
+1438,FR,60,Male,Up to 9 years of school,None,France,0,5,1,1,1,1,1,20,5,5,5,2,1,2,2
+1439,SAR,56,Female,"College degree, bachelor, master",NA,Argentina,NA,16,4,4,4,2,2,28,4,5,5,4,5,5,5
+1440,FI,39,Male,"College degree, bachelor, master",Some College or equivalent,Finland,NA,16,1,2,2,6,5,26,5,4,4,6,5,2,2
+1441,SAR,31,Female,"College degree, bachelor, master",College degree,Argentina,2,26,5,6,5,5,5,28,6,6,6,3,5,2,2
+1443,SAR,39,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,1,25,5,5,5,5,5,28,5,5,5,3,5,5,5
+1444,SAR,65,Male,Up to 6 years of school,Up to 6 years of school,Argentina,0,23,4,4,4,5,6,28,5,6,6,1,6,4,4
+1445,SAR,52,Female,"College degree, bachelor, master",Up to 9 years of school,Argentina,1,28,4,6,6,6,6,24,5,6,6,1,5,1,1
+1447,SAR,38,Female,Up to 12 years of school,Up to 12 years of school,Argentina,1,18,2,2,4,5,5,16,4,5,3,1,2,1,1
+1448,SME,38,Male,"College degree, bachelor, master",Some College or equivalent,Panama,5,26,4,6,6,5,5,32,6,6,6,5,5,4,4
+1450,SAR,60,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,2,26,5,6,6,5,4,25,5,5,5,3,5,2,2
+1451,SAR,37,Female,PhD/Doctorate,Some College or equivalent,Argentina,3,30,6,6,6,6,6,30,6,6,5,5,5,3,3
+1452,SAR,34,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,2,25,5,6,4,5,5,26,6,5,4,5,5,1,1
+1453,SAR,47,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,1,20,3,3,3,6,5,19,5,3,4,1,2,4,4
+1454,SAR,22,Female,"Some College, short continuing education or equivalent",College degree,Argentina,3,29,6,6,6,6,5,29,6,6,6,1,4,6,6
+1455,SAR,46,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,3,15,3,3,3,3,3,23,3,5,5,3,5,2,2
+1457,SAR,46,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,1,21,1,5,5,5,5,25,6,6,6,1,1,5,5
+1458,SME,44,Male,"College degree, bachelor, master",College degree,Chile,1,24,6,5,4,5,4,26,5,4,4,4,4,5,5
+1459,SAR,28,Female,PhD/Doctorate,Some College or equivalent,Argentina,1,23,6,6,4,5,2,28,6,5,6,6,4,1,1
+1462,SAR,58,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,2,26,4,6,5,6,5,29,6,6,6,2,6,3,3
+1464,SAR,43,Female,"College degree, bachelor, master",Some College or equivalent,Argentina,1,23,4,6,4,4,5,27,6,6,6,3,4,2,2
+1465,SAR,66,Female,"College degree, bachelor, master",Up to 9 years of school,Argentina,0,25,1,6,6,6,6,32,5,6,6,6,5,4,4
+1466,SAR,62,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Argentina,0,30,6,6,6,6,6,28,6,5,6,1,5,5,5
+1467,SAR,34,Female,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,1,22,6,4,3,5,4,27,6,6,6,2,5,2,2
+1468,SK,68,Female,"College degree, bachelor, master",Up to 12 years of school,Slovakia,1,15,3,3,3,3,3,25,5,6,6,2,5,1,1
+1469,SAR,21,Female,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,0,25,5,5,5,6,4,23,6,5,5,1,5,1,1
+1471,EN,31,Female,PhD/Doctorate,Some College or equivalent,United Kingdom,NA,30,6,6,6,6,6,23,1,5,5,4,5,3,3
+1472,SAR,68,Male,"Some College, short continuing education or equivalent",Some College or equivalent,Argentina,3,25,5,5,5,5,5,25,5,5,6,2,5,2,2
+1473,SAR,26,Female,Up to 12 years of school,Up to 6 years of school,Argentina,1,29,5,6,6,6,6,27,5,5,5,2,6,4,4
+1474,SAR,40,Female,"College degree, bachelor, master",College degree,Argentina,2,29,6,6,6,6,5,21,5,5,5,2,2,2,2
+1475,SAR,63,Male,PhD/Doctorate,Up to 6 years of school,Argentina,2,9,1,2,2,2,2,26,5,5,1,5,4,6,6
+1476,EN,39,Female,"Some College, short continuing education or equivalent",Up to 6 years of school,Malaysia,4,30,6,6,6,6,6,25,6,5,6,1,5,2,2
+1477,SAR,69,Female,"College degree, bachelor, master",Up to 6 years of school,Argentina,0,30,6,6,6,6,6,23,5,5,5,2,5,1,1
+1478,SK,58,Female,"Some College, short continuing education or equivalent",College degree,Slovakia,NA,24,3,5,4,6,6,28,6,6,5,5,5,1,1
+1479,SAR,64,Female,PhD/Doctorate,Up to 12 years of school,Argentina,2,20,2,4,4,5,5,19,6,NA,6,2,NA,5,5
+1480,SK,35,Female,"College degree, bachelor, master",College degree,Slovakia,2,23,3,5,5,5,5,26,6,6,6,2,4,2,2
+1481,EN,27,Male,"College degree, bachelor, master",College degree,Slovakia,4,14,2,2,2,4,4,23,5,5,4,5,2,2,2
+1482,SAR,81,Female,"College degree, bachelor, master",Up to 6 years of school,Argentina,2,25,4,5,5,6,5,26,5,6,6,2,5,2,2
+1483,SAR,62,Female,Up to 12 years of school,Up to 6 years of school,Argentina,1,25,5,5,5,5,5,32,6,6,6,6,6,2,2
+1484,SAR,54,Female,Up to 12 years of school,Up to 6 years of school,Argentina,3,23,5,5,4,5,4,20,5,3,4,5,1,2,2
+1485,SAR,26,Male,"Some College, short continuing education or equivalent",Up to 9 years of school,Argentina,1,28,4,6,6,6,6,20,4,4,5,2,4,1,1
+1487,RO,32,Female,PhD/Doctorate,College degree,Romania,1,30,6,6,6,6,6,23,6,6,5,1,4,1,1
+1489,RU,19,Female,"College degree, bachelor, master",Some College or equivalent,Ukraine,0,17,3,3,4,3,4,23,5,4,5,3,4,2,2
+1491,SME,57,Female,"College degree, bachelor, master",None,Mexico,3,25,5,5,4,6,5,20,5,4,4,3,2,2,2
+1492,CS,50,Male,"College degree, bachelor, master",PhD/Doctorate,Slovakia,NA,23,5,4,4,5,5,20,4,2,3,4,5,2,2
+1493,SME,63,Female,PhD/Doctorate,Up to 12 years of school,Panama,1,29,5,6,6,6,6,25,6,6,5,1,5,2,2
+1494,SAR,61,Male,Up to 12 years of school,Up to 12 years of school,Argentina,2,17,4,4,3,3,3,25,2,6,1,5,5,6,6
+1495,KO,39,Female,PhD/Doctorate,Some College or equivalent,"Korea, South",NA,18,3,3,3,4,5,24,5,5,5,3,5,1,1
+1499,TR,60,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Turkey,0,22,5,5,5,5,2,23,6,6,6,1,2,2,2
+1500,SAR,20,Female,"Some College, short continuing education or equivalent",Up to 12 years of school,Argentina,2,27,6,6,6,5,4,26,6,5,5,2,6,2,2
