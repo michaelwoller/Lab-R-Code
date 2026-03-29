@@ -17,3 +17,5 @@ The course material follows a specific order, with concepts building on each oth
 8) Nonlinear Regression
 9) Moderation
 10) Logistic Regression
+
+Relevant data is found in the data folder. Unfortunately, the variable descriptions of each dataset are largely unknown. However, important variables that are used for the analyses will be described when relevant.
